@@ -1,6 +1,12 @@
 /* Add your styles here */
+/* Add your styles here */
+@font-face {
+  font-family: "GV";
+  src: url("great-vibes/GV.ttf") format("truetype");
+}
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: "GV"; /* Use your custom font or fallback to Arial or sans-serif */
   color: #333;
   margin: 0;
   display: flex;
