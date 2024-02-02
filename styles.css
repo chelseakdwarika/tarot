@@ -16,16 +16,25 @@ body {
   background-image: url(https://cdn.pixabay.com/photo/2024/01/14/00/31/ai-generated-8507025_1280.jpg);
 }
 
+/* .card-container {
+  overflow: scroll; 
+  white-space: nowrap; 
+  width: 100%;
+  margin-left: 10px;
+  padding-bottom: 20px;
+} */
+
 .card-container {
-  overflow: scroll;
-  white-space: nowrap;
+  display: flex;
+  justify-content: center; /* Center the cards horizontally */
+  align-items: center; /* Center the cards vertically */
   width: 100%;
   margin-left: 10px;
   padding-bottom: 20px;
 }
 
 .tarot-card {
-  display: inline-block;
+  /* display: inline-block; */
   background-color: transparent;
   padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
