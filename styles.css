@@ -1,12 +1,10 @@
-/* Add your styles here */
-/* Add your styles here */
 @font-face {
   font-family: "GV";
   src: url("great-vibes/GV.ttf") format("truetype");
 }
 
 body {
-  font-family: "GV"; /* Use your custom font or fallback to Arial or sans-serif */
+  font-family: "GV"; 
   color: #333;
   margin: 0;
   display: flex;
@@ -15,6 +13,8 @@ body {
   height: 100vh;
   background-image: url(https://cdn.pixabay.com/photo/2024/01/14/00/31/ai-generated-8507025_1280.jpg);
 }
+
+/* for horizontal scrolling set-up all cards */
 
 /* .card-container {
   overflow: scroll; 
