@@ -1,67 +1,66 @@
 /* Add your styles here */
 body {
   font-family: Arial, sans-serif;
-  background: rgb(240, 167, 238);
-  background: radial-gradient(
-    circle,
-    rgba(240, 167, 238, 0.4181818181818182) 0%,
-    rgba(148, 187, 233, 1) 100%
-  );
   color: #333;
   margin: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
-
-header {
-  background-color: #007bff;
-  color: #fff;
-  padding: 10px;
-}
-
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-nav li {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-nav a {
-  text-decoration: none;
-  color: #fff;
-  font-weight: bold;
+  background-image: url(https://cdn.pixabay.com/photo/2024/01/14/00/31/ai-generated-8507025_1280.jpg);
 }
 
 .card-container {
-  display: flex;
-  justify-content: space-around;
-  max-width: 800px;
+  overflow: scroll;
+  white-space: nowrap;
   width: 100%;
+  margin-left: 10px;
+  padding-bottom: 20px;
 }
 
 .tarot-card {
+  display: inline-block;
   background-color: transparent;
-  padding: 25px;
+  padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  max-width: 300px;
-  width: 100%;
+  width: 300px; /* Adjust as needed */
+  margin: 10px;
   height: 500px;
   border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #ffd0d7;
 }
 
 .tarot-card h2 {
   margin-bottom: 10px;
+  text-align: center;
 }
 
-.tarot-card img {
-  max-width: 100%;
-  height: 500px;
+.card-front img {
+  max-height: 100%; /* Fix to prevent images from being shrunk */
   border-radius: 5px;
   display: block;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.card-inner {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.tarot-card:hover .card-inner {
+  transform: rotateY(180deg);
 }
