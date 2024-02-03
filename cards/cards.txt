@@ -1,132 +1,132 @@
 The Fool
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents new beginnings, spontaneity, and the start of a journey.
+Represents new beginnings, spontaneity, and the start of a journey.<br>
 Description Line 2
 Description Line 3
 ---
 The Magician
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes manifestation, power, and utilizing one's skills to achieve goals.
+Symbolizes manifestation, power, and utilizing one's skills to achieve goals.<br>
 Description Line 2
 Description Line 3
 ---
 The High Priestess
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies intuition, mystery, and the unconscious mind.
+Signifies intuition, mystery, and the unconscious mind.<br>
 Description Line 2
 Description Line 3
 ---
 The Empress
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents fertility, nurturing, and abundance.
+Represents fertility, nurturing, and abundance.<br>
 Description Line 2
 Description Line 3
 ---
 The Emperor
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes authority, leadership, and structure.
+Symbolizes authority, leadership, and structure.<br>
 Description Line 2
 Description Line 3
 ---
 The Hierophant
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies tradition, spirituality, and guidance.
+Signifies tradition, spirituality, and guidance.<br>
 Description Line 2
 Description Line 3
 ---
 The Lovers
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents love, partnerships, and choices.
+Represents love, partnerships, and choices.<br>
 Description Line 2
 Description Line 3
 ---
 The Chariot
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes determination, willpower, and overcoming obstacles.
+Symbolizes determination, willpower, and overcoming obstacles.<br>
 Description Line 2
 Description Line 3
 ---
 Strength
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies inner strength, courage, and overcoming challenges.
+Signifies inner strength, courage, and overcoming challenges.<br>
 Description Line 2
 Description Line 3
 ---
 The Hermit
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents introspection, solitude, and seeking inner guidance.
+Represents introspection, solitude, and seeking inner guidance.<br>
 Description Line 2
 Description Line 3
 ---
 Wheel of Fortune
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes fate, destiny, and cycles of life.
+Symbolizes fate, destiny, and cycles of life.<br>
 Description Line 2
 Description Line 3
 ---
 Justice
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies fairness, balance, and legal matters.
+Signifies fairness, balance, and legal matters.<br>
 Description Line 2
 Description Line 3
 ---
 The Hanged Man
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents surrender, letting go, and gaining a new perspective.
+Represents surrender, letting go, and gaining a new perspective.<br>
 Description Line 2
 Description Line 3
 ---
 Death
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes transformation, endings, and new beginnings.
+Symbolizes transformation, endings, and new beginnings.<br>
 Description Line 2
 Description Line 3
 ---
 Temperance
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies balance, harmony, and moderation.
+Signifies balance, harmony, and moderation.<br>
 Description Line 2
 Description Line 3
 ---
 The Devil
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents temptation, bondage, and materialism.
+Represents temptation, bondage, and materialism.<br>
 Description Line 2
 Description Line 3
 ---
 The Tower
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes sudden change, upheaval, and revelation.
+Symbolizes sudden change, upheaval, and revelation.<br>
 Description Line 2
 Description Line 3
 ---
 The Star
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies hope, inspiration, and spiritual insight.
+Signifies hope, inspiration, and spiritual insight.<br>
 Description Line 2
 Description Line 3
 ---
 The Moon
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents intuition, emotions, and the subconscious.
+Represents intuition, emotions, and the subconscious.<br>
 Description Line 2
 Description Line 3
 ---
 The Sun
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Symbolizes joy, success, and vitality.
+Symbolizes joy, success, and vitality.<br>
 Description Line 2
 Description Line 3
 ---
 Judgement
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Signifies self-reflection, awakening, and accountability
+Signifies self-reflection, awakening, and accountability<br>
 Description Line 2
 Description Line 3
 ---
 The World
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Represents completion, fulfillment, and wholeness.
+Represents completion, fulfillment, and wholeness.<br>
 Description Line 2
 Description Line 3
 ---

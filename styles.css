@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: "Spectral";
-  src: url("Spectral/Spectral-Regular.ttf") format("truetype");
+  src: url("/fonts/Spectral/Spectral-Medium.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Spectral-Italic";
-  src: url("Spectral/Spectral-LightItalic.ttf") format("truetype");
+  src: url("fonts/Spectral/Spectral-LightItalic.ttf") format("truetype");
 }
 
 body {
