@@ -24,11 +24,35 @@ body {
   padding-bottom: 20px;
 } */
 
+.navbar {
+  position: fixed;
+  background-image:radial-gradient(100% 100% at 50% 100%, #feb2b2 0%, rgba(252, 184, 219, 0.75) 25%, rgba(239, 194, 250, 0.5) 50%, rgba(190, 227, 248, 0) 100%), linear-gradient(90deg, #3182ce 0%, #348fc5 14.29%, #389ac2 28.57%, #3ca5c1 42.86%, #41b0c2 57.14%, #45bbc3 71.43%, #4fd1c5 100%);
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  z-index: 1000;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #000;
+  padding: 10px 20px;
+  margin: 0 5px;
+  transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+  background-color: #ffd0d7;
+}
+
+
 .card-container {
   display: flex;
-  justify-content: center; /* Center the cards horizontally */
-  align-items: center; /* Center the cards vertically */
-  width: 100%;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
   margin-left: 10px;
   padding-bottom: 20px;
 }
@@ -52,7 +76,7 @@ body {
 }
 
 .card-front img {
-  max-height: 100%; /* Fix to prevent images from being shrunk */
+  max-height: 100%;
   border-radius: 5px;
   display: block;
 }
@@ -79,3 +103,13 @@ body {
 .tarot-card:hover .card-inner {
   transform: rotateY(180deg);
 }
+
+/* Media query for screens 768px (adjust as needed) 
+@media (max-width: 768px) {
+  .tarot-card {
+    width: calc(100% - 20px);
+    }
+}
+*/
+
+
