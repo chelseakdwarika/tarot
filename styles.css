@@ -3,6 +3,16 @@
   src: url("great-vibes/GV.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "Spectral";
+  src: url("Spectral/Spectral-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Spectral-Italic";
+  src: url("Spectral/Spectral-LightItalic.ttf") format("truetype");
+}
+
 body {
   font-family: sans-serif;
   color: #333;
@@ -31,8 +41,8 @@ body {
   padding: 10px 20px;
   margin: 0 5px;
   transition: background-color 0.3s;
-  font-family: "GV";
-  font-size: 35px;
+  font-family: "Spectral-Italic";
+  font-size: 20px;
 }
 
 .navbar a:hover {
@@ -76,6 +86,12 @@ body {
 .tarot-card h2 {
   margin-bottom: 10px;
   text-align: center;
+  font-family: "Spectral";
+
+}
+
+.tarot-card p {
+  font-family: "Spectral";
 }
 
 .card-front img {
