@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: "Spectral-Italic";
-  src: url("fonts/Spectral/Spectral-LightItalic.ttf") format("truetype");
+  src: url("fonts/Spectral/Spectral-MediumItalic.ttf") format("truetype");
 }
 
 body {
@@ -75,7 +75,7 @@ body {
   background-color: transparent;
   padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 300px; 
+  width: 275px; 
   margin: 10px;
   height: 500px;
   border-radius: 10px;
