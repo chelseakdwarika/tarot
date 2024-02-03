@@ -11,14 +11,9 @@ const cardTemplate = (card) => `
 
 document.addEventListener("DOMContentLoaded", function () {
   const cardData = [
-    {
-      title: "The Empress",
-      description: "Chris",
-      img_url:
-        "https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png",
-    },
-    { title: "The Fool", description: "Chris" },
-    { title: "The Chariot", description: "Chelsea" },
+//    { title: "The Empress", description: "Chris", img_url: "https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png",},
+//    { title: "The Fool", description: "Chris" },
+//    { title: "The Chariot", description: "Chelsea" },
   ];
 
   function renderCardData() {

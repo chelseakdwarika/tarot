@@ -1,23 +1,471 @@
-a
+The Fool
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-1
-2
-3
+Represents new beginnings, spontaneity, and the start of a journey.
+Description Line 2
+Description Line 3
 ---
-b
+The Magician
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-1
-2
-3
+Symbolizes manifestation, power, and utilizing one's skills to achieve goals.
+Description Line 2
+Description Line 3
 ---
-a
+The High Priestess
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-1
-2
-3
+Signifies intuition, mystery, and the unconscious mind.
+Description Line 2
+Description Line 3
 ---
-a
+The Empress
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-1
-2
-3
+Represents fertility, nurturing, and abundance.
+Description Line 2
+Description Line 3
+---
+The Emperor
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes authority, leadership, and structure.
+Description Line 2
+Description Line 3
+---
+The Hierophant
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies tradition, spirituality, and guidance.
+Description Line 2
+Description Line 3
+---
+The Lovers
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents love, partnerships, and choices.
+Description Line 2
+Description Line 3
+---
+The Chariot
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes determination, willpower, and overcoming obstacles.
+Description Line 2
+Description Line 3
+---
+Strength
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies inner strength, courage, and overcoming challenges.
+Description Line 2
+Description Line 3
+---
+The Hermit
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents introspection, solitude, and seeking inner guidance.
+Description Line 2
+Description Line 3
+---
+Wheel of Fortune
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes fate, destiny, and cycles of life.
+Description Line 2
+Description Line 3
+---
+Justice
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies fairness, balance, and legal matters.
+Description Line 2
+Description Line 3
+---
+The Hanged Man
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents surrender, letting go, and gaining a new perspective.
+Description Line 2
+Description Line 3
+---
+Death
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes transformation, endings, and new beginnings.
+Description Line 2
+Description Line 3
+---
+Temperance
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies balance, harmony, and moderation.
+Description Line 2
+Description Line 3
+---
+The Devil
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents temptation, bondage, and materialism.
+Description Line 2
+Description Line 3
+---
+The Tower
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes sudden change, upheaval, and revelation.
+Description Line 2
+Description Line 3
+---
+The Star
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies hope, inspiration, and spiritual insight.
+Description Line 2
+Description Line 3
+---
+The Moon
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents intuition, emotions, and the subconscious.
+Description Line 2
+Description Line 3
+---
+The Sun
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Symbolizes joy, success, and vitality.
+Description Line 2
+Description Line 3
+---
+Judgement
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Signifies self-reflection, awakening, and accountability
+Description Line 2
+Description Line 3
+---
+The World
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents completion, fulfillment, and wholeness.
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+The Fool
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents new beginnings, spontaneity, and the start of a journey.
+Description Line 2
+Description Line 3
+---
+The Magician
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+The High Priestess
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+The Empress
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+The Fool
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Represents new beginnings, spontaneity, and the start of a journey.
+Description Line 2
+Description Line 3
+---
+The Magician
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+The High Priestess
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+The Empress
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
+---
+Card Title
+https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
+Description Line 1
+Description Line 2
+Description Line 3
