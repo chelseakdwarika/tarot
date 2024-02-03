@@ -14,16 +14,6 @@ body {
   background-image: url(https://cdn.pixabay.com/photo/2024/01/14/00/31/ai-generated-8507025_1280.jpg);
 }
 
-/* for horizontal scrolling set-up all cards */
-
-/* .card-container {
-  overflow: scroll; 
-  white-space: nowrap; 
-  width: 100%;
-  margin-left: 10px;
-  padding-bottom: 20px;
-} */
-
 .navbar {
   position: fixed;
   background-image:radial-gradient(100% 100% at 50% 100%, #feb2b2 0%, rgba(252, 184, 219, 0.75) 25%, rgba(239, 194, 250, 0.5) 50%, rgba(190, 227, 248, 0) 100%), linear-gradient(90deg, #3182ce 0%, #348fc5 14.29%, #389ac2 28.57%, #3ca5c1 42.86%, #41b0c2 57.14%, #45bbc3 71.43%, #4fd1c5 100%);
@@ -41,28 +31,41 @@ body {
   padding: 10px 20px;
   margin: 0 5px;
   transition: background-color 0.3s;
+  font-family: "GV";
+  font-size: 35px;
 }
 
 .navbar a:hover {
   background-color: #ffd0d7;
 }
 
-
+/* homepage two-cards */
 .card-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 300px;
+  width: 800px;
   margin-left: 10px;
+  margin-top: 60px;
   padding-bottom: 20px;
 }
+
+/* for horizontal scrolling set-up all cards */
+
+/* .card-container {
+  overflow: scroll; 
+  white-space: nowrap; 
+  width: 100%;
+  margin-left: 10px;
+  padding-bottom: 20px;
+} */
 
 .tarot-card {
   /* display: inline-block; */
   background-color: transparent;
   padding: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 300px; /* Adjust as needed */
+  width: 300px; 
   margin: 10px;
   height: 500px;
   border-radius: 10px;
@@ -112,4 +115,15 @@ body {
 }
 */
 
+/* card meanings/directory layout */
 
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(16, 1fr);
+  gap: 10px; 
+  height: 100vh; 
+  margin-top: 300px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
