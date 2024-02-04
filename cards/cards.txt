@@ -1,135 +1,158 @@
+fool
 The Fool
 ./images/fool.jpeg
 Represents new beginnings, spontaneity, and the start of a journey.<br>
 Description Line 2
 Description Line 3
 ---
+magician
 The Magician
 ./images/magician.jpeg
 Symbolizes manifestation, power, and utilizing one's skills to achieve goals.<br>
 Description Line 2
 Description Line 3
 ---
+high-priestess
 The High Priestess
 ./images/highpriestess.jpeg
 Signifies intuition, mystery, and the unconscious mind.<br>
 Description Line 2
 Description Line 3
 ---
+empress
 The Empress
 ./images/empress.jpeg
 Represents fertility, nurturing, and abundance.<br>
 Description Line 2
 Description Line 3
 ---
+emperor
 The Emperor
 ./images/emperor.jpeg
 Symbolizes authority, leadership, and structure.<br>
 Description Line 2
 Description Line 3
 ---
+hierophant
 The Hierophant
 ./images/hierophant.jpeg
 Signifies tradition, spirituality, and guidance.<br>
 Description Line 2
 Description Line 3
 ---
+lovers
 The Lovers
 ./images/lovers.jpeg
 Represents love, partnerships, and choices.<br>
 Description Line 2
 Description Line 3
 ---
+chariot
 The Chariot
 ./images/chariot.jpeg
 Symbolizes determination, willpower, and overcoming obstacles.<br>
 Description Line 2
 Description Line 3
 ---
+strength
 Strength
 ./images/strength.jpeg
 Signifies inner strength, courage, and overcoming challenges.<br>
 Description Line 2
 Description Line 3
 ---
+hermit
 The Hermit
 ./images/hermit.jpeg
 Represents introspection, solitude, and seeking inner guidance.<br>
 Description Line 2
 Description Line 3
 ---
+wheel-of-fortune
 Wheel of Fortune
 ./images/wheeloffortune.jpeg
 Symbolizes fate, destiny, and cycles of life.<br>
 Description Line 2
 Description Line 3
 ---
+justice
 Justice
 ./images/justice.jpeg
 Signifies fairness, balance, and legal matters.<br>
 Description Line 2
 Description Line 3
 ---
+hangedman
 The Hanged Man
 ./images/hangedman.jpeg
 Represents surrender, letting go, and gaining a new perspective.<br>
 Description Line 2
 Description Line 3
 ---
+death
 Death
 ./images/death.jpeg
 Symbolizes transformation, endings, and new beginnings.<br>
 Description Line 2
 Description Line 3
 ---
+temperance
 Temperance
 ./images/temperance.jpeg
 Signifies balance, harmony, and moderation.<br>
 Description Line 2
 Description Line 3
 ---
+devil
 The Devil
 ./images/devil.jpeg
 Represents temptation, bondage, and materialism.<br>
 Description Line 2
 Description Line 3
 ---
+tower
 The Tower
 ./images/tower.jpeg
 Symbolizes sudden change, upheaval, and revelation.<br>
 Description Line 2
 Description Line 3
 ---
+star
 The Star
 ./images/star.jpeg
 Signifies hope, inspiration, and spiritual insight.<br>
 Description Line 2
 Description Line 3
 ---
+moon
 The Moon
 ./images/moon.jpeg
 Represents intuition, emotions, and the subconscious.<br>
 Description Line 2
 Description Line 3
 ---
+sun
 The Sun
 ./images/sun.jpeg
 Symbolizes joy, success, and vitality.<br>
 Description Line 2
 Description Line 3
 ---
+judgement
 Judgement
 ./images/judgement.jpeg
 Signifies self-reflection, awakening, and accountability<br>
 Description Line 2
 Description Line 3
 ---
+world
 The World
 ./images/world.jpeg
 Represents completion, fulfillment, and wholeness.<br>
 Description Line 2
 Description Line 3
 ---
+blank
 Card Title
 https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
 Description Line 1

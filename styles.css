@@ -4,8 +4,9 @@
 }
 
 body {
-  font-family: sans-serif;
-  color: #333;
+  font-family: Spectral;
+  font-size: 20px;
+  color: #000;
   margin: 0;
   display: flex;
   align-items: center;
@@ -81,7 +82,7 @@ body {
 }
 
 .tarot-card:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .tarot-card h2 {
@@ -143,4 +144,22 @@ body {
   margin-top: 300px;
   margin-left: 500px;
   margin-right: 500px;
+}
+
+/* Tablet view: 2 cards per row */
+@media (max-width: 850px) {
+  .grid-container {
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+/* Mobile view: 1 card per row */
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+    margin-left: 50px;
+    margin-right: 50px;
+  }
 }
