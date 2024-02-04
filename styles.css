@@ -54,14 +54,15 @@ body {
   background-color: #fffcdc; /* Dropdown background color */
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1001; /* Ensure dropdown is above the navbar */
-}
+ }
 
 .navbar .dropdown-content a {
   display: block;
   padding: 10px 20px;
   text-decoration: none;
   color: #000;
-  transition: background-color 0.3s;
+  display: inline-block;
+  margin: 5px; /* Adjust as needed for spacing between items */
 }
 
 .navbar .dropdown-content a:hover {

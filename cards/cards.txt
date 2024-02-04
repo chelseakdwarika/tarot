@@ -82,7 +82,7 @@ Signifies fairness, balance, and legal matters.<br>
 Description Line 2
 Description Line 3
 ---
-hangedman
+hanged-man
 The Hanged Man
 ./images/hangedman.jpeg
 Represents surrender, letting go, and gaining a new perspective.<br>
