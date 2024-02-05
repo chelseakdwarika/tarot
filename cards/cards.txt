@@ -292,4 +292,72 @@ Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillme
 2
 3
 ---
-
+ace-swords
+Ace of Swords
+/.images/ace-swords.jpeg
+Represents clarity, truth, and the power of a new idea or perspective.<br>
+2
+3
+---
+two-swords
+Two of Swords
+/.images/two-swords.jpeg
+Signifies difficult decisions, indecision, and the need for careful consideration.<br>
+2
+3
+---
+three-swords
+Three of Swords
+/.images/three-swords.jpeg
+Symbolizes heartbreak, emotional pain, and the process of healing.<br>
+2
+3
+---
+four-swords
+Four of Swords
+/.images/four-swords.jpeg
+Represents rest, recovery, and taking a break to regain mental strength.<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
+---
+-swords
+of Swords
+/.images/-swords.jpeg
+1<br>
+2
+3
