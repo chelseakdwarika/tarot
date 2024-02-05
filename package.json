@@ -1,0 +1,19 @@
+{
+  "name": "tarot",
+  "version": "1.0.0",
+  "description": "Tarot Card Generator",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelseakdwarika/tarot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelseakdwarika/tarot/issues"
+  },
+  "homepage": "https://github.com/chelseakdwarika/tarot#readme"
+}

@@ -1,3 +1,4 @@
+
 const cardTemplate = (card) => `
 <div class="card-inner">
   <div class="card-front">
@@ -41,3 +42,4 @@ document.addEventListener("DOMContentLoaded", function () {
 
   renderCardData();
 });
+
