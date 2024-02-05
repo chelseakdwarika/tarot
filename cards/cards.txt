@@ -152,9 +152,144 @@ Represents completion, fulfillment, and wholeness.<br>
 Description Line 2
 Description Line 3
 ---
-blank
-Card Title
-https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png
-Description Line 1
-Description Line 2
-Description Line 3
+ace-wands
+Ace of Wands
+./images/ace-wands.jpeg
+Represents inspiration, new opportunities, and the spark of a creative idea.<br>
+2
+3
+---
+two-wands
+Two of Wands
+./images/two-wands.jpeg
+Symbolizes planning, making decisions, and taking the first steps toward a goal.<br>
+2
+3
+---
+three-wands
+Three of Wands
+./images/three-wands.jpeg
+Signifies expansion, foresight, and waiting for the right moment before taking action.<br>
+2
+3
+---
+four-wands
+Four of Wands
+./images/four-wands.jpeg
+Represents celebration, harmony, and the completion of a phase or project.<br>
+2
+3
+---
+five-wands
+Five of Wands
+./images/five-wands.jpeg
+Symbolizes competition, conflict, and challenges that arise during collaboration.<br>
+2
+3
+---
+six-wands
+Six of Wands
+./images/six-wands.jpeg
+Signifies victory, recognition, and achieving success after facing challenges.<br>
+2
+3
+---
+seven-wands
+Seven of Wands
+./images/seven-wands.jpeg
+Represents standing your ground, defending your beliefs, and overcoming opposition.<br>
+2
+3
+---
+eight-wands
+Eight of Wands
+./images/eight-wands.jpeg
+Symbolizes swift action, progress, and the rapid development of a situation.<br>
+2
+3
+---
+nine-wands
+Nine of Wands
+./images/nine-wands.jpeg
+Signifies resilience, determination, and the strength to face the final challenges before success.<br>
+2
+3
+---
+ten-wands
+Ten of Wands
+./images/ten-wands.jpeg
+Represents a heavy burden, responsibility, and the need to lighten your load.<br>
+2
+3
+---
+ace-cups
+Ace of Cups
+./images/ace-cups.jpeg
+Symbolizes new emotions, love, and the beginning of a deep connection.<br>
+2
+3
+---
+two-cups
+Two of Cups
+./images/two-cups.jpeg
+Represents partnerships, mutual attraction, and a harmonious relationship.<br>
+2
+3
+---
+three-cups
+Three of Cups
+./images/three-cups.jpeg
+Signifies celebration, joy, and shared happiness with friends or loved ones.<br>
+2
+3
+---
+four-cups
+Four of Cups
+./images/four-cups.jpeg
+Symbolizes contemplation, introspection, and a period of reassessment.<br>
+2
+3
+---
+five-cups
+Five of Cups
+./images/five-cups.jpeg
+Represents loss, grief, and the need to find emotional healing.<br>
+2
+3
+---
+six-cups
+Six of Cups
+/.images/six-cups.jpeg
+Signifies nostalgia, childhood memories, and reconnecting with the past.<br>
+2
+3
+---
+seven-cups
+Seven of Cups
+/.images/seven-cups.jpeg
+Symbolizes choices, illusions, and the need to make decisions based on reality.<br>
+2
+3
+---
+eight-cups
+Eight of Cups
+/.images/eight-cups.jpeg
+Represents walking away from a situation, seeking deeper meaning, and spiritual growth.<br>
+2
+3
+---
+nine-cups
+Nine of Cups
+/.images/nine-cups.jpeg
+Signifies contentment, emotional fulfillment, and the realization of dreams.<br>
+2
+3
+---
+ten-cups
+Ten of Cups
+/.images/ten-cups.jpeg
+Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br>
+2
+3
+---
+
