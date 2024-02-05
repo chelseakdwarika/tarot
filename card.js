@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
       });
   }
 
-  function openModal({ title, img_url, description }) {
+  /* function openModal({ title, img_url, description }) {
     const modalOverlay = document.createElement("div");
     modalOverlay.classList.add("modal-overlay");
 
@@ -64,6 +64,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const modalOverlay = document.querySelector(".modal-overlay");
     modalOverlay.remove();
   };
-
+*/
   renderCardData();
 });
