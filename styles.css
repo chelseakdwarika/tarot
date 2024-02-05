@@ -36,7 +36,7 @@ body {
   margin: 0 5px;
   transition: background-color 0.3s;
   font-family: "Spectral";
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .navbar a:hover {
@@ -176,6 +176,10 @@ body {
     margin-left: 20px;
     margin-right: 20px;
   }
+  .navbar a {
+    font-size: 16px;
+  }
+
 }
 
 /* Mobile view: 1 card per row */
