@@ -2,7 +2,7 @@
 const cardTemplate = (card) => `
 <div class="card-inner">
   <div class="card-front">
-    <img src="${card.img_url}" alt=${card.title} height="500px" width="275px" loading="lazy">
+    <img src="${card.img_url}" alt="${card.title}" height="500px" width="275px" loading="lazy">
   </div>
   <div class="card-back">
     <h2 class="title1">${card.title}</h2>
@@ -42,4 +42,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   renderCardData();
 });
+
+
 

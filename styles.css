@@ -215,3 +215,18 @@ body {
     overflow-y: auto; /* Enable vertical scrolling */
   }
 }
+
+#back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: none;
+  background-image: url(/images/sunset.jpg);
+  color: #000;
+  font-size: medium;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-family: "Spectral";
+}
