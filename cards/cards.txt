@@ -320,44 +320,114 @@ Represents rest, recovery, and taking a break to regain mental strength.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+five-swords
+Five of Swords
+/.images/five-swords.jpeg
+Signifies conflict, defeat, and the importance of choosing battles wisely.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+six-swords
+Six of Swords
+/.images/six-swords.jpeg
+Symbolizes moving on, transition, and leaving behind difficulties for a better future.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+seven-swords
+Seven of Swords
+/.images/seven-swords.jpeg
+Represents deception, stealth, and the need to be cautious of dishonesty.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+eight-swords
+Eight of Swords
+/.images/eight-swords.jpeg
+Signifies feeling trapped, self-imposed restrictions, and the need to break free.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+nine-swords
+Nine of Swords
+/.images/nine-swords.jpeg
+Symbolizes anxiety, nightmares, and the importance of addressing inner fears.<br>
 2
 3
 ---
--swords
-of Swords
-/.images/-swords.jpeg
-1<br>
+ten-swords
+Ten of Swords
+/.images/ten-swords.jpeg
+Represents rock bottom, a difficult ending, and the potential for a fresh start.<br>
+2
+3
+---
+ace-pentacles
+Ace of Pentacles
+/.images/ace-pentacles.jpeg
+Symbolizes prosperity, new opportunities for financial growth, and stability.<br>
+2
+3
+---
+two-pentacles
+Two of Pentacles
+/.images/two-pentacles.jpeg
+Represents balance, juggling priorities, and adapting to changing circumstances.<br>
+2
+3
+---
+three-pentacles
+Three of Pentacles
+/.images/three-pentacles.jpeg
+Signifies collaboration, teamwork, and the successful completion of a project.<br>
+2
+3
+---
+four-pentacles
+Four of Pentacles
+/.images/four-pentacles.jpeg
+Symbolizes material security, but warns against excessive attachment or greed.<br>
+2
+3
+---
+five-pentacles
+Five of Pentacles
+/.images/five-pentacles.jpeg
+Represents financial challenges, hardship, and the importance of seeking support.<br>
+2
+3
+---
+six-pentacles
+Six of Pentacles
+/.images/six-pentacles.jpeg
+Signifies generosity, charity, and the balanced exchange of resources.<br>
+2
+3
+---
+seven-pentacles
+Seven of Pentacles
+/.images/seven-pentacles.jpeg
+Symbolizes patience, investment, and waiting for the fruits of your labor to manifest.<br>
+2
+3
+---
+eight-pentacles
+Eight of Pentacles
+/.images/eight-pentacles.jpeg
+Represents diligence, craftsmanship, and the pursuit of mastery in a skill or endeavor.<br>
+2
+3
+---
+nine-pentacles
+Nine of Pentacles
+/.images/nine-pentacles.jpeg
+Signifies abundance, financial independence, and enjoying the rewards of hard work.<br>
+2
+3
+---
+ten-pentacles
+Ten of Pentacles
+/.images/ten-pentacles.jpeg
+Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br>
 2
 3
