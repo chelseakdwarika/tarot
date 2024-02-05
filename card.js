@@ -1,4 +1,3 @@
-
 const cardTemplate = (card) => `
 <div class="card-inner">
   <div class="card-front">
@@ -11,14 +10,10 @@ const cardTemplate = (card) => `
 </div>`;
 
 document.addEventListener("DOMContentLoaded", function () {
-  const cardData = [
-    //    { title: "The Empress", description: "Chris", img_url: "https://cdn.pixabay.com/photo/2016/03/01/12/43/lines-1230292_1280.png",},
-    //    { title: "The Fool", description: "Chris" },
-    //    { title: "The Chariot", description: "Chelsea" },
-  ];
+  const cardData = [];
 
   function renderCardData() {
-      const list = document.querySelector("#card-list");
+    const list = document.querySelector("#card-list");
 
     fetch("cards/cards.txt")
       .then((res) => res.text())
@@ -35,13 +30,40 @@ document.addEventListener("DOMContentLoaded", function () {
             img_url,
             description: description.join("\n"),
           });
+
+          card.addEventListener("click", () => {
+            openModal({
+              title,
+              img_url,
+              description: description.join("\n"),
+            });
+          });
+
           list.appendChild(card);
         });
       });
   }
 
+  function openModal({ title, img_url, description }) {
+    const modalOverlay = document.createElement("div");
+    modalOverlay.classList.add("modal-overlay");
+
+    modalOverlay.innerHTML = `
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2>${title}</h2>
+        <img src="${img_url}" alt="${title}" height="500px" width="275px" loading="lazy">
+        <p>${description}</p>
+      </div>
+    `;
+
+    document.body.appendChild(modalOverlay);
+  }
+
+  window.closeModal = function () {
+    const modalOverlay = document.querySelector(".modal-overlay");
+    modalOverlay.remove();
+  };
+
   renderCardData();
 });
-
-
-
