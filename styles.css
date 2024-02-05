@@ -44,7 +44,7 @@ body {
 }
 
 .navbar .dropdown {
-  display: inline-block;
+  display: inline;
 }
 
 .navbar .dropdown-content {
@@ -153,13 +153,6 @@ body {
   transform: rotateY(180deg);
 }
 
-/* Media query for screens 768px (adjust as needed) 
-@media (max-width: 768px) {
-  .tarot-card {
-    width: calc(100% - 20px);
-    }
-}
-*/
 
 /* card meanings/directory layout */
 
@@ -177,7 +170,7 @@ body {
 /* Tablet view: 2 cards per row */
 @media (max-width: 850px) {
   .grid-container {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     margin-left: 20px;
     margin-right: 20px;
   }
@@ -186,9 +179,12 @@ body {
 /* Mobile view: 1 card per row */
 @media (max-width: 768px) {
   .grid-container {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     margin-left: 50px;
     margin-right: 50px;
+  }
+  .navbar a {
+    font-size: 16px;
   }
 }
 
