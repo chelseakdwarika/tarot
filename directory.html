@@ -7,7 +7,6 @@
   <title>Tarot Card Meanings</title>
   <link rel="stylesheet" href="styles.css">
   <script src="https://kit.fontawesome.com/146993d568.js" crossorigin="anonymous"></script>
-
 </head>
 
 <body>
@@ -126,6 +125,13 @@
 
   <div class="grid-container" id="card-list"></div>
   <script src="card.js"></script>
-
+  <script>
+    // Check if the alert has already been shown
+    const alertShown = localStorage.getItem('alertShown');
+    if (!alertShown) {
+      alert('Tap cards to flip and see their meanings!');
+      localStorage.setItem('alertShown', 'true');
+    }
+  </script>
 </body>
 </html>
