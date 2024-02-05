@@ -2,267 +2,206 @@ fool
 The Fool
 ./images/fool.jpeg
 Represents new beginnings, spontaneity, and the start of a journey.<br>
-Description Line 2
-Description Line 3
 ---
 magician
 The Magician
 ./images/magician.jpeg
 Symbolizes manifestation, power, and utilizing one's skills to achieve goals.<br>
-Description Line 2
-Description Line 3
 ---
 high-priestess
 The High Priestess
 ./images/high-priestess.jpeg
 Signifies intuition, mystery, and the unconscious mind.<br>
-Description Line 2
-Description Line 3
 ---
 empress
 The Empress
 ./images/empress.jpeg
 Represents fertility, nurturing, and abundance.<br>
-Description Line 2
-Description Line 3
 ---
 emperor
 The Emperor
 ./images/emperor.jpeg
 Symbolizes authority, leadership, and structure.<br>
-Description Line 2
-Description Line 3
 ---
 hierophant
 The Hierophant
 ./images/hierophant.jpeg
 Signifies tradition, spirituality, and guidance.<br>
-Description Line 2
-Description Line 3
 ---
 lovers
 The Lovers
 ./images/lovers.jpeg
 Represents love, partnerships, and choices.<br>
-Description Line 2
-Description Line 3
 ---
 chariot
 The Chariot
 ./images/chariot.jpeg
 Symbolizes determination, willpower, and overcoming obstacles.<br>
-Description Line 2
-Description Line 3
 ---
 strength
 Strength
 ./images/strength.jpeg
 Signifies inner strength, courage, and overcoming challenges.<br>
-Description Line 2
-Description Line 3
 ---
 hermit
 The Hermit
 ./images/hermit.jpeg
 Represents introspection, solitude, and seeking inner guidance.<br>
-Description Line 2
-Description Line 3
 ---
 wheel-of-fortune
 Wheel of Fortune
 ./images/wheel-of-fortune.jpeg
 Symbolizes fate, destiny, and cycles of life.<br>
-Description Line 2
-Description Line 3
 ---
 justice
 Justice
 ./images/justice.jpeg
 Signifies fairness, balance, and legal matters.<br>
-Description Line 2
-Description Line 3
 ---
 hanged-man
 The Hanged Man
 ./images/hanged-man.jpeg
 Represents surrender, letting go, and gaining a new perspective.<br>
-Description Line 2
-Description Line 3
 ---
 death
 Death
 ./images/death.jpeg
 Symbolizes transformation, endings, and new beginnings.<br>
-Description Line 2
-Description Line 3
 ---
 temperance
 Temperance
 ./images/temperance.jpeg
 Signifies balance, harmony, and moderation.<br>
-Description Line 2
-Description Line 3
 ---
 devil
 The Devil
 ./images/devil.jpeg
 Represents temptation, bondage, and materialism.<br>
-Description Line 2
-Description Line 3
 ---
 tower
 The Tower
 ./images/tower.jpeg
 Symbolizes sudden change, upheaval, and revelation.<br>
-Description Line 2
-Description Line 3
 ---
 star
 The Star
 ./images/star.jpeg
 Signifies hope, inspiration, and spiritual insight.<br>
-Description Line 2
-Description Line 3
 ---
 moon
 The Moon
 ./images/moon.jpeg
 Represents intuition, emotions, and the subconscious.<br>
-Description Line 2
-Description Line 3
 ---
 sun
 The Sun
 ./images/sun.jpeg
 Symbolizes joy, success, and vitality.<br>
-Description Line 2
-Description Line 3
 ---
 judgement
 Judgement
 ./images/judgement.jpeg
 Signifies self-reflection, awakening, and accountability<br>
-Description Line 2
-Description Line 3
 ---
 world
 The World
 ./images/world.jpeg
 Represents completion, fulfillment, and wholeness.<br>
-Description Line 2
-Description Line 3
 ---
 ace-wands
 Ace of Wands
 ./images/ace-wands.jpeg
 Represents inspiration, new opportunities, and the spark of a creative idea.<br>
-2
-3
 ---
 two-wands
 Two of Wands
 ./images/two-wands.jpeg
 Symbolizes planning, making decisions, and taking the first steps toward a goal.<br>
-2
-3
 ---
 three-wands
 Three of Wands
 ./images/three-wands.jpeg
 Signifies expansion, foresight, and waiting for the right moment before taking action.<br>
-2
-3
 ---
 four-wands
 Four of Wands
 ./images/four-wands.jpeg
 Represents celebration, harmony, and the completion of a phase or project.<br>
-2
-3
 ---
 five-wands
 Five of Wands
 ./images/five-wands.jpeg
 Symbolizes competition, conflict, and challenges that arise during collaboration.<br>
-2
-3
 ---
 six-wands
 Six of Wands
 ./images/six-wands.jpeg
 Signifies victory, recognition, and achieving success after facing challenges.<br>
-2
-3
 ---
 seven-wands
 Seven of Wands
 ./images/seven-wands.jpeg
 Represents standing your ground, defending your beliefs, and overcoming opposition.<br>
-2
-3
 ---
 eight-wands
 Eight of Wands
 ./images/eight-wands.jpeg
 Symbolizes swift action, progress, and the rapid development of a situation.<br>
-2
-3
 ---
 nine-wands
 Nine of Wands
 ./images/nine-wands.jpeg
 Signifies resilience, determination, and the strength to face the final challenges before success.<br>
-2
-3
 ---
 ten-wands
 Ten of Wands
 ./images/ten-wands.jpeg
 Represents a heavy burden, responsibility, and the need to lighten your load.<br>
-2
-3
+---
+knight-wands
+Knight of Wands
+/.images/knight-wands.jpeg
+Represents passion, energy, and a swift pursuit of goals. This knight is adventurous and charismatic.<br>
+---
+queen-wands
+Queen of Wands
+/.images/queen-wands.jpeg
+Embodies confidence, warmth, and leadership. She is often seen as a nurturing but powerful force.<br>
+---
+king-wands
+King of Wands
+/.images/king-wands.jpeg
+Symbolizes charisma, vision, and natural leadership. This king is decisive and takes bold action.<br>
 ---
 ace-cups
 Ace of Cups
 ./images/ace-cups.jpeg
 Symbolizes new emotions, love, and the beginning of a deep connection.<br>
-2
-3
 ---
 two-cups
 Two of Cups
 ./images/two-cups.jpeg
 Represents partnerships, mutual attraction, and a harmonious relationship.<br>
-2
-3
 ---
 three-cups
 Three of Cups
 ./images/three-cups.jpeg
-Signifies celebration, joy, and shared happiness with friends or loved ones.<br>
-2
-3
+Signifies celebration, joy, and shared happiness with friends or loved ones.<br
 ---
 four-cups
 Four of Cups
 ./images/four-cups.jpeg
 Symbolizes contemplation, introspection, and a period of reassessment.<br>
-2
-3
 ---
 five-cups
 Five of Cups
 ./images/five-cups.jpeg
 Represents loss, grief, and the need to find emotional healing.<br>
-2
-3
 ---
 six-cups
 Six of Cups
 /.images/six-cups.jpeg
 Signifies nostalgia, childhood memories, and reconnecting with the past.<br>
-2
-3
 ---
 seven-cups
 Seven of Cups
@@ -275,159 +214,158 @@ eight-cups
 Eight of Cups
 /.images/eight-cups.jpeg
 Represents walking away from a situation, seeking deeper meaning, and spiritual growth.<br>
-2
-3
 ---
 nine-cups
 Nine of Cups
 /.images/nine-cups.jpeg
 Signifies contentment, emotional fulfillment, and the realization of dreams.<br>
-2
-3
 ---
 ten-cups
 Ten of Cups
 /.images/ten-cups.jpeg
 Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br>
-2
-3
+---
+knight-cups
+Knight of Cups
+/.images/knight-cups.jpeg
+Represents romantic pursuit, emotional exploration, and following the heart. This knight is often a dreamer and idealist.<br>
+---
+queen-cups
+Queen of Cups
+/.images/queen-cups.jpeg
+Embodies intuition, compassion, and emotional depth. She is a caring and empathetic figure.<br>
+---
+king-cups
+King of Cups
+/.images/king-cups.jpeg
+Symbolizes emotional balance, wisdom, and mastery of feelings. This king is compassionate, understanding, and calm.<br>
 ---
 ace-swords
 Ace of Swords
 /.images/ace-swords.jpeg
 Represents clarity, truth, and the power of a new idea or perspective.<br>
-2
-3
 ---
 two-swords
 Two of Swords
 /.images/two-swords.jpeg
 Signifies difficult decisions, indecision, and the need for careful consideration.<br>
-2
-3
 ---
 three-swords
 Three of Swords
 /.images/three-swords.jpeg
 Symbolizes heartbreak, emotional pain, and the process of healing.<br>
-2
-3
 ---
 four-swords
 Four of Swords
 /.images/four-swords.jpeg
 Represents rest, recovery, and taking a break to regain mental strength.<br>
-2
-3
 ---
 five-swords
 Five of Swords
 /.images/five-swords.jpeg
 Signifies conflict, defeat, and the importance of choosing battles wisely.<br>
-2
-3
 ---
 six-swords
 Six of Swords
 /.images/six-swords.jpeg
 Symbolizes moving on, transition, and leaving behind difficulties for a better future.<br>
-2
-3
 ---
 seven-swords
 Seven of Swords
 /.images/seven-swords.jpeg
 Represents deception, stealth, and the need to be cautious of dishonesty.<br>
-2
-3
 ---
 eight-swords
 Eight of Swords
 /.images/eight-swords.jpeg
 Signifies feeling trapped, self-imposed restrictions, and the need to break free.<br>
-2
-3
 ---
 nine-swords
 Nine of Swords
 /.images/nine-swords.jpeg
 Symbolizes anxiety, nightmares, and the importance of addressing inner fears.<br>
-2
-3
 ---
 ten-swords
 Ten of Swords
 /.images/ten-swords.jpeg
 Represents rock bottom, a difficult ending, and the potential for a fresh start.<br>
-2
-3
+---
+knight-swords
+Knight of Swords
+/.images/knight-swords.jpeg
+Represents swift action, determination, and assertiveness. This knight is often seen as a messenger of change or conflict.<br>
+---
+queen-swords
+Queen of Swords
+/.images/queen-swords.jpeg
+ Embodies intellect, clarity, and direct communication. She is sharp-witted and honest.<br>
+---
+king-swords
+King of Swords
+/.images/king-swords.jpeg
+Symbolizes mental clarity, authority, and fair judgment. This king is logical, analytical, and wise.<br>
 ---
 ace-pentacles
 Ace of Pentacles
 /.images/ace-pentacles.jpeg
 Symbolizes prosperity, new opportunities for financial growth, and stability.<br>
-2
-3
 ---
 two-pentacles
 Two of Pentacles
 /.images/two-pentacles.jpeg
 Represents balance, juggling priorities, and adapting to changing circumstances.<br>
-2
-3
 ---
 three-pentacles
 Three of Pentacles
 /.images/three-pentacles.jpeg
 Signifies collaboration, teamwork, and the successful completion of a project.<br>
-2
-3
 ---
 four-pentacles
 Four of Pentacles
 /.images/four-pentacles.jpeg
 Symbolizes material security, but warns against excessive attachment or greed.<br>
-2
-3
 ---
 five-pentacles
 Five of Pentacles
 /.images/five-pentacles.jpeg
 Represents financial challenges, hardship, and the importance of seeking support.<br>
-2
-3
 ---
 six-pentacles
 Six of Pentacles
 /.images/six-pentacles.jpeg
 Signifies generosity, charity, and the balanced exchange of resources.<br>
-2
-3
 ---
 seven-pentacles
 Seven of Pentacles
 /.images/seven-pentacles.jpeg
 Symbolizes patience, investment, and waiting for the fruits of your labor to manifest.<br>
-2
-3
 ---
 eight-pentacles
 Eight of Pentacles
 /.images/eight-pentacles.jpeg
 Represents diligence, craftsmanship, and the pursuit of mastery in a skill or endeavor.<br>
-2
-3
 ---
 nine-pentacles
 Nine of Pentacles
 /.images/nine-pentacles.jpeg
 Signifies abundance, financial independence, and enjoying the rewards of hard work.<br>
-2
-3
 ---
 ten-pentacles
 Ten of Pentacles
 /.images/ten-pentacles.jpeg
 Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br>
-2
-3
+---
+knight-pentacles
+Knight of Pentacles
+/.images/knight-pentacles.jpeg
+Represents diligence, responsibility, and a methodical approach. This knight is focused on practical matters and hard work.<br>
+---
+queen-pentacles
+Queen of Pentacles
+/.images/queen-pentacles.jpeg
+Embodies nurturing abundance, practicality, and a connection to nature. She is often associated with domestic stability.<br>
+---
+king-pentacles
+King of Pentacles
+/.images/king-pentacles.jpeg
+Symbolizes financial success, stability, and mastery of the material world. This king is reliable, responsible, and enjoys the fruits of labor.<br>
