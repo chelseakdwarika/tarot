@@ -223,10 +223,13 @@ body {
   display: none;
   background-image: url(/images/sunset.jpg);
   color: #000;
-  font-size: medium;
-  border: none;
+  font-size: 20px;
+  border: 2px solid #000 ;
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
   font-family: "Spectral";
+}
+#back-to-top:hover {
+  color: #fff;
 }

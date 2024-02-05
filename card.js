@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function renderCardData() {
       const list = document.querySelector("#card-list");
 
-    fetch("/cards/cards.txt")
+    fetch("cards/cards.txt")
       .then((res) => res.text())
       .then((text) => {
         const cards = text.split("---").map((card) => card.trim());
