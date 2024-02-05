@@ -1,7 +1,7 @@
 const cardTemplate = (card) => `
 <div class="card-inner">
   <div class="card-front">
-    <img src="${card.img_url}" alt=${card.title}>
+    <img src="${card.img_url}" alt=${card.title} loading="lazy">
   </div>
   <div class="card-back">
     <h2 class="title1">${card.title}</h2>
