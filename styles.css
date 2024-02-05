@@ -221,15 +221,16 @@ body {
   bottom: 30px;
   right: 30px;
   display: none;
-  background-image: url(/images/sunset.jpg);
+  background-color: #ffd0d7;
   color: #000;
   font-size: 20px;
-  border: 2px solid #000 ;
+  border: 2px solid #000;
   border-radius: 5px;
   padding: 10px 20px;
   cursor: pointer;
   font-family: "Spectral";
 }
+
 #back-to-top:hover {
-  color: #fff;
-}
+  background-color: #000;;
+  color: #ffd0d7;}
