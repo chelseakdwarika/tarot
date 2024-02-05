@@ -307,65 +307,65 @@ Symbolizes financial success, stability, and mastery of the material world. This
 ---
 ace-wands
 Ace of Wands
-./images/ace-wands.jpeg
+./images/ace-wands.png
 Represents inspiration, new opportunities, and the spark of a creative idea.<br>
 ---
 two-wands
 Two of Wands
-./images/two-wands.jpeg
+./images/two-wands.png
 Symbolizes planning, making decisions, and taking the first steps toward a goal.<br>
 ---
 three-wands
 Three of Wands
-./images/three-wands.jpeg
+./images/three-wands.png
 Signifies expansion, foresight, and waiting for the right moment before taking action.<br>
 ---
 four-wands
 Four of Wands
-./images/four-wands.jpeg
+./images/four-wands.png
 Represents celebration, harmony, and the completion of a phase or project.<br>
 ---
 five-wands
 Five of Wands
-./images/five-wands.jpeg
+./images/five-wands.png
 Symbolizes competition, conflict, and challenges that arise during collaboration.<br>
 ---
 six-wands
 Six of Wands
-./images/six-wands.jpeg
+./images/six-wands.png
 Signifies victory, recognition, and achieving success after facing challenges.<br>
 ---
 seven-wands
 Seven of Wands
-./images/seven-wands.jpeg
+./images/seven-wands.png
 Represents standing your ground, defending your beliefs, and overcoming opposition.<br>
 ---
 eight-wands
 Eight of Wands
-./images/eight-wands.jpeg
+./images/eight-wands.png
 Symbolizes swift action, progress, and the rapid development of a situation.<br>
 ---
 nine-wands
 Nine of Wands
-./images/nine-wands.jpeg
+./images/nine-wands.png
 Signifies resilience, determination, and the strength to face the final challenges before success.<br>
 ---
 ten-wands
 Ten of Wands
-./images/ten-wands.jpeg
+./images/ten-wands.png
 Represents a heavy burden, responsibility, and the need to lighten your load.<br>
 ---
 knight-wands
 Knight of Wands
-/.images/knight-wands.jpeg
+./images/knight-wands.png
 Represents passion, energy, and a swift pursuit of goals. This knight is adventurous and charismatic.<br>
 ---
 queen-wands
 Queen of Wands
-/.images/queen-wands.jpeg
+./images/queen-wands.png
 Embodies confidence, warmth, and leadership. She is often seen as a nurturing but powerful force.<br>
 ---
 king-wands
 King of Wands
-/.images/king-wands.jpeg
+./images/king-wands.png
 Symbolizes charisma, vision, and natural leadership. This king is decisive and takes bold action.<br>
