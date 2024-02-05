@@ -12,15 +12,23 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-image: url(https://cdn.pixabay.com/photo/2024/01/14/00/31/ai-generated-8507025_1280.jpg);
+  background-image: url(./images/background.webp);
 }
 
 .navbar {
   position: fixed;
   /*background-image:radial-gradient(100% 100% at 50% 100%, #feb2b2 0%, rgba(252, 184, 219, 0.75) 25%, rgba(239, 194, 250, 0.5) 50%, rgba(190, 227, 248, 0) 100%), linear-gradient(90deg, #3182ce 0%, #348fc5 14.29%, #389ac2 28.57%, #3ca5c1 42.86%, #41b0c2 57.14%, #45bbc3 71.43%, #4fd1c5 100%); */
-  background: #d9a7c7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #d9a7c7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fffcdc,
+    #d9a7c7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fffcdc,
+    #d9a7c7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   top: 0;
   left: 0;
   width: 100%;
@@ -98,12 +106,20 @@ body {
 .tarot-card {
   /* display: inline-block; */
   /* background-color: transparent; */
-  background: #d9a7c7;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #fffcdc, #d9a7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #d9a7c7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fffcdc,
+    #d9a7c7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fffcdc,
+    #d9a7c7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   padding: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 275px; 
+  width: 275px;
   margin: 10px;
   height: 500px;
   border-radius: 10px;
@@ -119,7 +135,6 @@ body {
   margin-bottom: 10px;
   text-align: center;
   font-family: "Spectral";
-
 }
 
 .tarot-card p {
@@ -155,15 +170,14 @@ body {
   transform: rotateY(180deg);
 }
 
-
 /* card meanings/directory layout */
 
 .grid-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(16, 1fr);
-  gap: 10px; 
-  height: 100vh; 
+  gap: 10px;
+  height: 100vh;
   margin-top: 300px;
   margin-left: 500px;
   margin-right: 500px;
@@ -179,7 +193,6 @@ body {
   .navbar a {
     font-size: 16px;
   }
-
 }
 
 /* Mobile view: 1 card per row */
@@ -202,5 +215,3 @@ body {
     overflow-y: auto; /* Enable vertical scrolling */
   }
 }
-
-
