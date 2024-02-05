@@ -14,7 +14,7 @@ Description Line 3
 ---
 high-priestess
 The High Priestess
-./images/highpriestess.jpeg
+./images/high-priestess.jpeg
 Signifies intuition, mystery, and the unconscious mind.<br>
 Description Line 2
 Description Line 3
@@ -70,7 +70,7 @@ Description Line 3
 ---
 wheel-of-fortune
 Wheel of Fortune
-./images/wheeloffortune.jpeg
+./images/wheel-of-fortune.jpeg
 Symbolizes fate, destiny, and cycles of life.<br>
 Description Line 2
 Description Line 3
@@ -84,7 +84,7 @@ Description Line 3
 ---
 hanged-man
 The Hanged Man
-./images/hangedman.jpeg
+./images/hanged-man.jpeg
 Represents surrender, letting go, and gaining a new perspective.<br>
 Description Line 2
 Description Line 3
