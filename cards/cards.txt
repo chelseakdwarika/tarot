@@ -218,61 +218,61 @@ ace-swords
 Ace of Swords
 ./images/ace-swords.webp
 Represents clarity, truth, and the power of a new idea or perspective.<br><br>
-REVERSED:
+REVERSED: Mental confusion, lack of clarity, and difficulty in decision-making.
 ---
 two-swords
 Two of Swords
 ./images/two-swords.webp
 Signifies difficult decisions, indecision, and the need for careful consideration.<br><br>
-REVERSED:
+REVERSED: Avoidance of decisions, unwillingness to confront the truth, and internal conflict.
 ---
 three-swords
 Three of Swords
 ./images/three-swords.webp
 Symbolizes heartbreak, emotional pain, and the process of healing.<br><br>
-REVERSED:
+REVERSED: Healing from heartbreak, release of emotional pain, and resolution of conflicts.
 ---
 four-swords
 Four of Swords
 ./images/four-swords.webp
 Represents rest, recovery, and taking a break to regain mental strength.<br><br>
-REVERSED:
+REVERSED: Restlessness, lack of relaxation, and the need for active recovery.
 ---
 five-swords
 Five of Swords
 ./images/five-swords.webp
 Signifies conflict, defeat, and the importance of choosing battles wisely.<br><br>
-REVERSED:
+REVERSED: Reconciliation, letting go of conflicts, and learning from past battles.
 ---
 six-swords
 Six of Swords
 ./images/six-swords.webp
 Symbolizes moving on, transition, and leaving behind difficulties for a better future.<br><br>
-REVERSED:
+REVERSED: Resistance to change, lingering emotional baggage, and unresolved issues hindering progress.
 ---
 seven-swords
 Seven of Swords
 ./images/seven-swords.webp
 Represents deception, stealth, and the need to be cautious of dishonesty.<br><br>
-REVERSED:
+REVERSED: Honesty, facing consequences, and abandoning deceitful behaviors.
 ---
 eight-swords
 Eight of Swords
 ./images/eight-swords.webp
 Signifies feeling trapped, self-imposed restrictions, and the need to break free.<br><br>
-REVERSED:
+REVERSED: Liberation, breaking free, and regaining mental clarity.
 ---
 nine-swords
 Nine of Swords
 ./images/nine-swords.webp
 Symbolizes anxiety, nightmares, and the importance of addressing inner fears.<br><br>
-REVERSED:
+REVERSED: Relief from anxiety, finding solutions to worries, and inner peace.
 ---
 ten-swords
 Ten of Swords
 ./images/ten-swords.webp
 Represents rock bottom, a difficult ending, and the potential for a fresh start.<br><br>
-REVERSED:
+REVERSED: Recovery and healing after rock bottom, release from pain, and embracing a fresh start.
 ---
 page-swords
 Page of Swords
@@ -284,19 +284,19 @@ knight-swords
 Knight of Swords
 ./images/knight-swords.webp
 Represents swift action, determination, and assertiveness. This knight is often seen as a messenger of change or conflict.<br><br>
-REVERSED:
+REVERSED: Hasty actions leading to problems, lack of direction, and impulsive behavior.
 ---
 queen-swords
 Queen of Swords
 ./images/queen-swords.webp
  Embodies intellect, clarity, and direct communication. She is sharp-witted and honest.<br><br>
- REVERSED:
+ REVERSED: Harsh communication, emotional coldness, and difficulty expressing empathy.
 ---
 king-swords
 King of Swords
 ./images/king-swords.webp
 Symbolizes mental clarity, authority, and fair judgment. This king is logical, analytical, and wise.<br><br>
-REVERSED:
+REVERSED: Abuse of authority, manipulative use of intellect, and closed-mindedness or unfair judgments.
 ---
 ace-pentacles
 Ace of Pentacles
