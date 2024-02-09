@@ -302,61 +302,61 @@ ace-pentacles
 Ace of Pentacles
 ./images/ace-pentacles.webp
 Symbolizes prosperity, new opportunities for financial growth, and stability.<br><br>
-REVERSED:
+REVERSED: Financial instability, missed opportunities, and lack of material growth.
 ---
 two-pentacles
 Two of Pentacles
 ./images/two-pentacles.webp
 Represents balance, juggling priorities, and adapting to changing circumstances.<br><br>
-REVERSED:
+REVERSED: Imbalance, poor financial planning, and difficulty juggling priorities.
 ---
 three-pentacles
 Three of Pentacles
 ./images/three-pentacles.webp
 Signifies collaboration, teamwork, and the successful completion of a project.<br><br>
-REVERSED:
+REVERSED: Lack of collaboration, incomplete work, and project setbacks.
 ---
 four-pentacles
 Four of Pentacles
 ./images/four-pentacles.webp
 Symbolizes material security, but warns against excessive attachment or greed.<br><br>
-REVERSED:
+REVERSED: Financial insecurities, excessive materialism, and fear of loss.
 ---
 five-pentacles
 Five of Pentacles
 ./images/five-pentacles.webp
 Represents financial challenges, hardship, and the importance of seeking support.<br><br>
-REVERSED:
+REVERSED: Financial recovery, seeking support, and overcoming hardship.
 ---
 six-pentacles
 Six of Pentacles
 ./images/six-pentacles.webp
 Signifies generosity, charity, and the balanced exchange of resources.<br><br>
-REVERSED:
+REVERSED: Unequal generosity, lack of charity, and imbalanced resource exchange.
 ---
 seven-pentacles
 Seven of Pentacles
 ./images/seven-pentacles.webp
 Symbolizes patience, investment, and waiting for the fruits of your labor to manifest.<br><br>
-REVERSED:
+REVERSED: Impatience, poor investment, and feeling unrewarded for efforts.
 ---
 eight-pentacles
 Eight of Pentacles
 ./images/eight-pentacles.webp
 Represents diligence, craftsmanship, and the pursuit of mastery in a skill or endeavor.<br><br>
-REVERSED:
+REVERSED: Lack of diligence, unfinished projects, and skill development challenges.
 ---
 nine-pentacles
 Nine of Pentacles
 ./images/nine-pentacles.webp
 Signifies abundance, financial independence, and enjoying the rewards of hard work.<br><br>
-REVERSED:
+REVERSED: Financial dependence, overreliance on others, and unfulfilled abundance.
 ---
 ten-pentacles
 Ten of Pentacles
 ./images/ten-pentacles.webp
 Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br><br>
-REVERSED:
+REVERSED: Family discord, financial instability, and unfulfilled familial goals.
 ---
 page-pentacles
 Page of Pentacles
@@ -368,19 +368,19 @@ knight-pentacles
 Knight of Pentacles
 ./images/knight-pentacles.webp
 Represents diligence, responsibility, and a methodical approach. This knight is focused on practical matters and hard work.<br><br>
-REVERSED:
+REVERSED: Laziness, lack of responsibility, and an overly cautious approach.
 ---
 queen-pentacles
 Queen of Pentacles
 ./images/queen-pentacles.webp
 Embodies nurturing abundance, practicality, and a connection to nature. She is often associated with domestic stability.<br><br>
-REVERSED:
+REVERSED: Financial negligence, dependence, and a focus on materialism over nurturing.
 ---
 king-pentacles
 King of Pentacles
 ./images/king-pentacles.webp
 Symbolizes financial success, stability, and mastery of the material world. This king is reliable, responsible, and enjoys the fruits of labor.<br><br>
-REVERSED:
+REVERSED: Financial risks, instability, and misuse of power or resources.
 ---
 ace-wands
 Ace of Wands
