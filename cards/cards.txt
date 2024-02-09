@@ -386,61 +386,61 @@ ace-wands
 Ace of Wands
 ./images/ace-wands.webp
 Represents inspiration, new opportunities, and the spark of a creative idea.<br><br>
-REVERSED:
+REVERSED: Lack of inspiration, creative blocks, and missed opportunities.
 ---
 two-wands
 Two of Wands
 ./images/two-wands.webp
 Symbolizes planning, making decisions, and taking the first steps toward a goal.<br><br>
-REVERSED:
+REVERSED: Lack of planning, fear of unknown possibilities, and hesitation.
 ---
 three-wands
 Three of Wands
 ./images/three-wands.webp
 Signifies expansion, foresight, and waiting for the right moment before taking action.<br><br>
-REVERSED:
+REVERSED: Lack of foresight, delays in expansion, and missed opportunities.
 ---
 four-wands
 Four of Wands
 ./images/four-wands.webp
 Represents celebration, harmony, and the completion of a phase or project.<br><br>
-REVERSED:
+REVERSED: Unstable foundations, lack of harmony, and delayed celebrations.
 ---
 five-wands
 Five of Wands
 ./images/five-wands.webp
 Symbolizes competition, conflict, and challenges that arise during collaboration.<br><br>
-REVERSED:
+REVERSED: Conflict avoidance, inner conflicts, and collaboration challenges.
 ---
 six-wands
 Six of Wands
 ./images/six-wands.webp
 Signifies victory, recognition, and achieving success after facing challenges.<br><br>
-REVERSED:
+REVERSED: Lack of recognition, self-doubt, and delayed success.
 ---
 seven-wands
 Seven of Wands
 ./images/seven-wands.webp
 Represents standing your ground, defending your beliefs, and overcoming opposition.<br><br>
-REVERSED:
+REVERSED: Surrendering to opposition, lack of confidence, and giving up too easily.
 ---
 eight-wands
 Eight of Wands
 ./images/eight-wands.webp
 Symbolizes swift action, progress, and the rapid development of a situation.<br><br>
-REVERSED:
+REVERSED: Delays in progress, miscommunication, and slowed momentum.
 ---
 nine-wands
 Nine of Wands
 ./images/nine-wands.webp
 Signifies resilience, determination, and the strength to face the final challenges before success.<br><br>
-REVERSED:
+REVERSED: Lack of resilience, feeling overwhelmed, and giving up too soon.
 ---
 ten-wands
 Ten of Wands
 ./images/ten-wands.webp
 Represents a heavy burden, responsibility, and the need to lighten your load.<br><br>
-REVERSED:
+REVERSED: Easing burdens, learning to delegate, and seeking support.
 ---
 page-wands
 Page of Wands
@@ -452,16 +452,16 @@ knight-wands
 Knight of Wands
 ./images/knight-wands.webp
 Represents passion, energy, and a swift pursuit of goals. This knight is adventurous and charismatic.<br><br>
-REVERSED:
+REVERSED: Lack of passion or direction, impulsivity, and recklessness.
 ---
 queen-wands
 Queen of Wands
 ./images/queen-wands.webp
 Embodies confidence, warmth, and leadership. She is often seen as a nurturing but powerful force.<br><br>
-REVERSED:
+REVERSED: Lack of confidence, dominance, and manipulation.
 ---
 king-wands
 King of Wands
 ./images/king-wands.webp
 Symbolizes charisma, vision, and natural leadership. This king is decisive and takes bold action.<br><br>
-REVERSED:
+REVERSED: Tyranny, misuse of power, and impulsive decision-making.
