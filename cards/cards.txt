@@ -1,371 +1,442 @@
 fool
 The Fool
 ./images/fool.webp
-Represents new beginnings, spontaneity, and the start of a journey.<br>
+Represents new beginnings, spontaneity, and the start of a journey.<br><br>
+REVERSED: Lack of spontaneity, recklessness, thoughtlessness.
 ---
 magician
 The Magician
 ./images/magician.webp
-Symbolizes manifestation, power, and utilizing one's skills to achieve goals.<br>
+Symbolizes manifestation, power, and utilizing one's skills to achieve goals.<br><br>
+REVERSED: Manipulation, lack of power, untapped potential.
 ---
 high-priestess
 The High Priestess
 ./images/high-priestess.webp
-Signifies intuition, mystery, and the unconscious mind.<br>
+Signifies intuition, mystery, and the unconscious mind.<br><br>
+REVERSED: Hidden agendas, secrets revealed, lack of intuition.
 ---
 empress
 The Empress
 ./images/empress.webp
-Represents fertility, nurturing, and abundance.<br>
+Represents fertility, nurturing, and abundance.<br><br>
+REVERSED: Neglect, dependence, creative block.
 ---
 emperor
 The Emperor
 ./images/emperor.webp
-Symbolizes authority, leadership, and structure.<br>
+Symbolizes authority, leadership, and structure.<br><br>
+REVERSED: Tyranny, lack of authority, chaos.
 ---
 hierophant
 The Hierophant
 ./images/hierophant.webp
-Signifies tradition, spirituality, and guidance.<br>
+Signifies tradition, spirituality, and guidance.<br><br>
+REVERSED: Rebellion, nonconformity, unconventional beliefs.
 ---
 lovers
 The Lovers
 ./images/lovers.webp
-Represents love, partnerships, and choices.<br>
+Represents love, partnerships, and choices.<br><br>
+REVERSED: Disharmony, conflict, separation.
 ---
 chariot
 The Chariot
 ./images/chariot.webp
-Symbolizes determination, willpower, and overcoming obstacles.<br>
+Symbolizes determination, willpower, and overcoming obstacles.<br><br>
+REVERSED: Lack of control, directionless, inner conflict.
 ---
 strength
 Strength
 ./images/strength.webp
-Signifies inner strength, courage, and overcoming challenges.<br>
+Signifies inner strength, courage, and overcoming challenges.<br><br>
+REVERSED: Weakness, self-doubt, lack of courage.
 ---
 hermit
 The Hermit
 ./images/hermit.webp
-Represents introspection, solitude, and seeking inner guidance.<br>
+Represents introspection, solitude, and seeking inner guidance.<br><br>
+REVERSED: Isolation, loneliness, withdrawal.
 ---
 wheel-of-fortune
 Wheel of Fortune
 ./images/wheel-of-fortune.webp
-Symbolizes fate, destiny, and cycles of life.<br>
+Symbolizes fate, destiny, and cycles of life.<br><br>
+REVERSED: Bad luck, resistance to change, delays.
 ---
 justice
 Justice
 ./images/justice.webp
-Signifies fairness, balance, and legal matters.<br>
+Signifies fairness, balance, and legal matters.<br><br>
+REVERSED: Injustice, imbalance, unfairness.
 ---
 hanged-man
 The Hanged Man
 ./images/hanged-man.webp
-Represents surrender, letting go, and gaining a new perspective.<br>
+Represents surrender, letting go, and gaining a new perspective.<br><br>
+REVERSED: Delays, resistance to change, feeling stuck.
 ---
 death
 Death
 ./images/death.webp
-Symbolizes transformation, endings, and new beginnings.<br>
+Symbolizes transformation, endings, and new beginnings.<br><br>
+REVERSED: Resistance to change, stagnation, fear of transformation.
 ---
 temperance
 Temperance
 ./images/temperance.webp
-Signifies balance, harmony, and moderation.<br>
+Signifies balance, harmony, and moderation.<br><br>
+REVERSED: Imbalance, extremes, lack of moderation.
 ---
 devil
 The Devil
 ./images/devil.webp
-Represents temptation, bondage, and materialism.<br>
+Represents temptation, bondage, and materialism.<br><br>
+REVERSED: Release from bondage, overcoming temptation, liberation.
 ---
 tower
 The Tower
 ./images/tower.webp
-Symbolizes sudden change, upheaval, and revelation.<br>
+Symbolizes sudden change, upheaval, and revelation.<br><br>
+REVERSED: Avoiding disaster, gradual change, rebuilding.
 ---
 star
 The Star
 ./images/star.webp
-Signifies hope, inspiration, and spiritual insight.<br>
+Signifies hope, inspiration, and spiritual insight.<br><br>
+REVERSED: Disillusionment, lack of hope, faithlessness.
 ---
 moon
 The Moon
 ./images/moon.webp
-Represents intuition, emotions, and the subconscious.<br>
+Represents intuition, emotions, and the subconscious.<br><br>
+REVERSED: Confusion, fear, illusions revealed.
 ---
 sun
 The Sun
 ./images/sun.webp
-Symbolizes joy, success, and vitality.<br>
+Symbolizes joy, success, and vitality.<br><br>
+REVERSED: Temporary setbacks, lack of clarity, ego issues.
 ---
 judgement
 Judgement
 ./images/judgement.webp
-Signifies self-reflection, awakening, and accountability<br>
+Signifies self-reflection, awakening, and accountability<br><br>
+REVERSED: Self-doubt, fear of judgment, avoiding responsibility.
 ---
 world
 The World
 ./images/world.webp
-Represents completion, fulfillment, and wholeness.<br>
+Represents completion, fulfillment, and wholeness.<br><br>
+REVERSED: Incompletion, lack of closure, feeling stuck.
 ---
 ace-cups
 Ace of Cups
 ./images/ace-cups.webp
-Symbolizes new emotions, love, and the beginning of a deep connection.<br>
+Symbolizes new emotions, love, and the beginning of a deep connection.<br><br>
 ---
 two-cups
 Two of Cups
 ./images/two-cups.webp
-Represents partnerships, mutual attraction, and a harmonious relationship.<br>
+Represents partnerships, mutual attraction, and a harmonious relationship.<br><br>
+REVERSED:
 ---
 three-cups
 Three of Cups
 ./images/three-cups.webp
-Signifies celebration, joy, and shared happiness with friends or loved ones.<br
+Signifies celebration, joy, and shared happiness with friends or loved ones.<br><br>
+REVERSED:
 ---
 four-cups
 Four of Cups
 ./images/four-cups.webp
-Symbolizes contemplation, introspection, and a period of reassessment.<br>
+Symbolizes contemplation, introspection, and a period of reassessment.<br><br>
+REVERSED:
 ---
 five-cups
 Five of Cups
 ./images/five-cups.webp
-Represents loss, grief, and the need to find emotional healing.<br>
+Represents loss, grief, and the need to find emotional healing.<br><br>
+REVERSED:
 ---
 six-cups
 Six of Cups
 ./images/six-cups.webp
-Signifies nostalgia, childhood memories, and reconnecting with the past.<br>
+Signifies nostalgia, childhood memories, and reconnecting with the past.<br><br>
+REVERSED:
 ---
 seven-cups
 Seven of Cups
 ./images/seven-cups.webp
-Symbolizes choices, illusions, and the need to make decisions based on reality.<br>
-2
-3
+Symbolizes choices, illusions, and the need to make decisions based on reality.<br><br>
+REVERSED:
 ---
 eight-cups
 Eight of Cups
 ./images/eight-cups.webp
-Represents walking away from a situation, seeking deeper meaning, and spiritual growth.<br>
+Represents walking away from a situation, seeking deeper meaning, and spiritual growth.<br><br>
+REVERSED:
 ---
 nine-cups
 Nine of Cups
 ./images/nine-cups.webp
-Signifies contentment, emotional fulfillment, and the realization of dreams.<br>
+Signifies contentment, emotional fulfillment, and the realization of dreams.<br><br>
+REVERSED:
 ---
 ten-cups
 Ten of Cups
 ./images/ten-cups.webp
-Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br>
+Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br><br>
+REVERSED:
 ---
 knight-cups
 Knight of Cups
 ./images/knight-cups.webp
-Represents romantic pursuit, emotional exploration, and following the heart. This knight is often a dreamer and idealist.<br>
+Represents romantic pursuit, emotional exploration, and following the heart. This knight is often a dreamer and idealist.<br><br>
+REVERSED:
 ---
 queen-cups
 Queen of Cups
 ./images/queen-cups.webp
-Embodies intuition, compassion, and emotional depth. She is a caring and empathetic figure.<br>
+Embodies intuition, compassion, and emotional depth. She is a caring and empathetic figure.<br><br>
+REVERSED:
 ---
 king-cups
 King of Cups
 ./images/king-cups.webp
-Symbolizes emotional balance, wisdom, and mastery of feelings. This king is compassionate, understanding, and calm.<br>
+Symbolizes emotional balance, wisdom, and mastery of feelings. This king is compassionate, understanding, and calm.<br><br>
+REVERSED:
 ---
 ace-swords
 Ace of Swords
 ./images/ace-swords.webp
-Represents clarity, truth, and the power of a new idea or perspective.<br>
+Represents clarity, truth, and the power of a new idea or perspective.<br><br>
+REVERSED:
 ---
 two-swords
 Two of Swords
 ./images/two-swords.webp
-Signifies difficult decisions, indecision, and the need for careful consideration.<br>
+Signifies difficult decisions, indecision, and the need for careful consideration.<br><br>
+REVERSED:
 ---
 three-swords
 Three of Swords
 ./images/three-swords.webp
-Symbolizes heartbreak, emotional pain, and the process of healing.<br>
+Symbolizes heartbreak, emotional pain, and the process of healing.<br><br>
+REVERSED:
 ---
 four-swords
 Four of Swords
 ./images/four-swords.webp
-Represents rest, recovery, and taking a break to regain mental strength.<br>
+Represents rest, recovery, and taking a break to regain mental strength.<br><br>
+REVERSED:
 ---
 five-swords
 Five of Swords
 ./images/five-swords.webp
-Signifies conflict, defeat, and the importance of choosing battles wisely.<br>
+Signifies conflict, defeat, and the importance of choosing battles wisely.<br><br>
+REVERSED:
 ---
 six-swords
 Six of Swords
 ./images/six-swords.webp
-Symbolizes moving on, transition, and leaving behind difficulties for a better future.<br>
+Symbolizes moving on, transition, and leaving behind difficulties for a better future.<br><br>
+REVERSED:
 ---
 seven-swords
 Seven of Swords
 ./images/seven-swords.webp
-Represents deception, stealth, and the need to be cautious of dishonesty.<br>
+Represents deception, stealth, and the need to be cautious of dishonesty.<br><br>
+REVERSED:
 ---
 eight-swords
 Eight of Swords
 ./images/eight-swords.webp
-Signifies feeling trapped, self-imposed restrictions, and the need to break free.<br>
+Signifies feeling trapped, self-imposed restrictions, and the need to break free.<br><br>
+REVERSED:
 ---
 nine-swords
 Nine of Swords
 ./images/nine-swords.webp
-Symbolizes anxiety, nightmares, and the importance of addressing inner fears.<br>
+Symbolizes anxiety, nightmares, and the importance of addressing inner fears.<br><br>
+REVERSED:
 ---
 ten-swords
 Ten of Swords
 ./images/ten-swords.webp
-Represents rock bottom, a difficult ending, and the potential for a fresh start.<br>
+Represents rock bottom, a difficult ending, and the potential for a fresh start.<br><br>
+REVERSED:
 ---
 knight-swords
 Knight of Swords
 ./images/knight-swords.webp
-Represents swift action, determination, and assertiveness. This knight is often seen as a messenger of change or conflict.<br>
+Represents swift action, determination, and assertiveness. This knight is often seen as a messenger of change or conflict.<br><br>
+REVERSED:
 ---
 queen-swords
 Queen of Swords
 ./images/queen-swords.webp
- Embodies intellect, clarity, and direct communication. She is sharp-witted and honest.<br>
+ Embodies intellect, clarity, and direct communication. She is sharp-witted and honest.<br><br>
+ REVERSED:
 ---
 king-swords
 King of Swords
 ./images/king-swords.webp
-Symbolizes mental clarity, authority, and fair judgment. This king is logical, analytical, and wise.<br>
+Symbolizes mental clarity, authority, and fair judgment. This king is logical, analytical, and wise.<br><br>
+REVERSED:
 ---
 ace-pentacles
 Ace of Pentacles
 ./images/ace-pentacles.webp
-Symbolizes prosperity, new opportunities for financial growth, and stability.<br>
+Symbolizes prosperity, new opportunities for financial growth, and stability.<br><br>
+REVERSED:
 ---
 two-pentacles
 Two of Pentacles
 ./images/two-pentacles.webp
-Represents balance, juggling priorities, and adapting to changing circumstances.<br>
+Represents balance, juggling priorities, and adapting to changing circumstances.<br><br>
+REVERSED:
 ---
 three-pentacles
 Three of Pentacles
 ./images/three-pentacles.webp
-Signifies collaboration, teamwork, and the successful completion of a project.<br>
+Signifies collaboration, teamwork, and the successful completion of a project.<br><br>
+REVERSED:
 ---
 four-pentacles
 Four of Pentacles
 ./images/four-pentacles.webp
-Symbolizes material security, but warns against excessive attachment or greed.<br>
+Symbolizes material security, but warns against excessive attachment or greed.<br><br>
+REVERSED:
 ---
 five-pentacles
 Five of Pentacles
 ./images/five-pentacles.webp
-Represents financial challenges, hardship, and the importance of seeking support.<br>
+Represents financial challenges, hardship, and the importance of seeking support.<br><br>
+REVERSED:
 ---
 six-pentacles
 Six of Pentacles
 ./images/six-pentacles.webp
-Signifies generosity, charity, and the balanced exchange of resources.<br>
+Signifies generosity, charity, and the balanced exchange of resources.<br><br>
+REVERSED:
 ---
 seven-pentacles
 Seven of Pentacles
 ./images/seven-pentacles.webp
-Symbolizes patience, investment, and waiting for the fruits of your labor to manifest.<br>
+Symbolizes patience, investment, and waiting for the fruits of your labor to manifest.<br><br>
+REVERSED:
 ---
 eight-pentacles
 Eight of Pentacles
 ./images/eight-pentacles.webp
-Represents diligence, craftsmanship, and the pursuit of mastery in a skill or endeavor.<br>
+Represents diligence, craftsmanship, and the pursuit of mastery in a skill or endeavor.<br><br>
+REVERSED:
 ---
 nine-pentacles
 Nine of Pentacles
 ./images/nine-pentacles.webp
-Signifies abundance, financial independence, and enjoying the rewards of hard work.<br>
+Signifies abundance, financial independence, and enjoying the rewards of hard work.<br><br>
+REVERSED:
 ---
 ten-pentacles
 Ten of Pentacles
 ./images/ten-pentacles.webp
-Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br>
+Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br><br>
+REVERSED:
 ---
 knight-pentacles
 Knight of Pentacles
 ./images/knight-pentacles.webp
-Represents diligence, responsibility, and a methodical approach. This knight is focused on practical matters and hard work.<br>
+Represents diligence, responsibility, and a methodical approach. This knight is focused on practical matters and hard work.<br><br>
+REVERSED:
 ---
 queen-pentacles
 Queen of Pentacles
 ./images/queen-pentacles.webp
-Embodies nurturing abundance, practicality, and a connection to nature. She is often associated with domestic stability.<br>
+Embodies nurturing abundance, practicality, and a connection to nature. She is often associated with domestic stability.<br><br>
+REVERSED:
 ---
 king-pentacles
 King of Pentacles
 ./images/king-pentacles.webp
-Symbolizes financial success, stability, and mastery of the material world. This king is reliable, responsible, and enjoys the fruits of labor.<br>
+Symbolizes financial success, stability, and mastery of the material world. This king is reliable, responsible, and enjoys the fruits of labor.<br><br>
+REVERSED:
 ---
 ace-wands
 Ace of Wands
 ./images/ace-wands.webp
-Represents inspiration, new opportunities, and the spark of a creative idea.<br>
+Represents inspiration, new opportunities, and the spark of a creative idea.<br><br>
+REVERSED:
 ---
 two-wands
 Two of Wands
 ./images/two-wands.webp
-Symbolizes planning, making decisions, and taking the first steps toward a goal.<br>
+Symbolizes planning, making decisions, and taking the first steps toward a goal.<br><br>
+REVERSED:
 ---
 three-wands
 Three of Wands
 ./images/three-wands.webp
-Signifies expansion, foresight, and waiting for the right moment before taking action.<br>
+Signifies expansion, foresight, and waiting for the right moment before taking action.<br><br>
+REVERSED:
 ---
 four-wands
 Four of Wands
 ./images/four-wands.webp
-Represents celebration, harmony, and the completion of a phase or project.<br>
+Represents celebration, harmony, and the completion of a phase or project.<br><br>
+REVERSED:
 ---
 five-wands
 Five of Wands
 ./images/five-wands.webp
-Symbolizes competition, conflict, and challenges that arise during collaboration.<br>
+Symbolizes competition, conflict, and challenges that arise during collaboration.<br><br>
+REVERSED:
 ---
 six-wands
 Six of Wands
 ./images/six-wands.webp
-Signifies victory, recognition, and achieving success after facing challenges.<br>
+Signifies victory, recognition, and achieving success after facing challenges.<br><br>
+REVERSED:
 ---
 seven-wands
 Seven of Wands
 ./images/seven-wands.webp
-Represents standing your ground, defending your beliefs, and overcoming opposition.<br>
+Represents standing your ground, defending your beliefs, and overcoming opposition.<br><br>
+REVERSED:
 ---
 eight-wands
 Eight of Wands
 ./images/eight-wands.webp
-Symbolizes swift action, progress, and the rapid development of a situation.<br>
+Symbolizes swift action, progress, and the rapid development of a situation.<br><br>
+REVERSED:
 ---
 nine-wands
 Nine of Wands
 ./images/nine-wands.webp
-Signifies resilience, determination, and the strength to face the final challenges before success.<br>
+Signifies resilience, determination, and the strength to face the final challenges before success.<br><br>
+REVERSED:
 ---
 ten-wands
 Ten of Wands
 ./images/ten-wands.webp
-Represents a heavy burden, responsibility, and the need to lighten your load.<br>
+Represents a heavy burden, responsibility, and the need to lighten your load.<br><br>
+REVERSED:
 ---
 knight-wands
 Knight of Wands
 ./images/knight-wands.webp
-Represents passion, energy, and a swift pursuit of goals. This knight is adventurous and charismatic.<br>
+Represents passion, energy, and a swift pursuit of goals. This knight is adventurous and charismatic.<br><br>
+REVERSED:
 ---
 queen-wands
 Queen of Wands
 ./images/queen-wands.webp
-Embodies confidence, warmth, and leadership. She is often seen as a nurturing but powerful force.<br>
+Embodies confidence, warmth, and leadership. She is often seen as a nurturing but powerful force.<br><br>
+REVERSED:
 ---
 king-wands
 King of Wands
 ./images/king-wands.webp
-Symbolizes charisma, vision, and natural leadership. This king is decisive and takes bold action.<br>
+Symbolizes charisma, vision, and natural leadership. This king is decisive and takes bold action.<br><br>
+REVERSED:
