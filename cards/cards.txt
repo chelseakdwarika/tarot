@@ -189,6 +189,12 @@ Ten of Cups
 Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br><br>
 REVERSED:
 ---
+page-cups
+Page of Cups
+./images/page-cups.webp
+Represents emotional sensitivity, intuitive messages, new feelings.<br><br>
+REVERSED: Emotional immaturity, moodiness, creative blocks.
+---
 knight-cups
 Knight of Cups
 ./images/knight-cups.webp
@@ -266,6 +272,12 @@ Ten of Swords
 ./images/ten-swords.webp
 Represents rock bottom, a difficult ending, and the potential for a fresh start.<br><br>
 REVERSED:
+---
+page-swords
+Page of Swords
+./images/page-swords.webp
+Represents curiosity, intellectual pursuits, new ideas.<br><br>
+REVERSED: hasty decisions, lack of clarity, communication issues.
 ---
 knight-swords
 Knight of Swords
@@ -345,6 +357,12 @@ Ten of Pentacles
 Symbolizes wealth, family prosperity, and the fulfillment of material and familial goals.<br><br>
 REVERSED:
 ---
+page-pentacles
+Page of Pentacles
+./images/page-pentacles.webp
+Represents practicality, new opportunities, financial or educational pursuits. <br><br>
+REVERSED: Missed opportunities, materialism, lack of focus.
+---
 knight-pentacles
 Knight of Pentacles
 ./images/knight-pentacles.webp
@@ -422,6 +440,12 @@ Ten of Wands
 ./images/ten-wands.webp
 Represents a heavy burden, responsibility, and the need to lighten your load.<br><br>
 REVERSED:
+---
+page-wands
+Page of Wands
+./images/page-wands.webp
+Represents inspiration, enthusiasm, new ventures.<br><br>
+REVERSED: Lack of direction, delays, creative blockages.
 ---
 knight-wands
 Knight of Wands
