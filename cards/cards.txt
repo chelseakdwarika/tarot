@@ -134,60 +134,61 @@ ace-cups
 Ace of Cups
 ./images/ace-cups.webp
 Symbolizes new emotions, love, and the beginning of a deep connection.<br><br>
+REVERSED: Blocked emotions, lack of emotional clarity, emotional emptiness or numbness.
 ---
 two-cups
 Two of Cups
 ./images/two-cups.webp
 Represents partnerships, mutual attraction, and a harmonious relationship.<br><br>
-REVERSED:
+REVERSED: Relationship discord, miscommunication in partnerships, unresolved conflicts.
 ---
 three-cups
 Three of Cups
 ./images/three-cups.webp
 Signifies celebration, joy, and shared happiness with friends or loved ones.<br><br>
-REVERSED:
+REVERSED: Social conflicts or misunderstandings, overindulgence in celebrations, lack of harmony in group settings.
 ---
 four-cups
 Four of Cups
 ./images/four-cups.webp
 Symbolizes contemplation, introspection, and a period of reassessment.<br><br>
-REVERSED:
+REVERSED: Reevaluation of emotional priorities, rediscovering joy or inspiration, coming out of a period of introspection.
 ---
 five-cups
 Five of Cups
 ./images/five-cups.webp
 Represents loss, grief, and the need to find emotional healing.<br><br>
-REVERSED:
+REVERSED: Emotional healing and acceptance, release of grief or resentment, finding silver linings in difficult situations.
 ---
 six-cups
 Six of Cups
 ./images/six-cups.webp
 Signifies nostalgia, childhood memories, and reconnecting with the past.<br><br>
-REVERSED:
+REVERSED: Difficulty letting go of the past, unresolved childhood issues, nostalgia hindering personal growth.
 ---
 seven-cups
 Seven of Cups
 ./images/seven-cups.webp
 Symbolizes choices, illusions, and the need to make decisions based on reality.<br><br>
-REVERSED:
+REVERSED: Clarity in decision-making, moving beyond illusions or fantasies, focusing on realistic goals.
 ---
 eight-cups
 Eight of Cups
 ./images/eight-cups.webp
 Represents walking away from a situation, seeking deeper meaning, and spiritual growth.<br><br>
-REVERSED:
+REVERSED: Fear of change or emotional exploration, unwillingness to let go of the familiar, need for self-reflection and inner growth.
 ---
 nine-cups
 Nine of Cups
 ./images/nine-cups.webp
 Signifies contentment, emotional fulfillment, and the realization of dreams.<br><br>
-REVERSED:
+REVERSED: Unfulfilled emotional desires, overindulgence leading to dissatisfaction, seeking happiness from external sources.
 ---
 ten-cups
 Ten of Cups
 ./images/ten-cups.webp
 Symbolizes lasting happiness, family harmony, and a sense of emotional fulfillment.<br><br>
-REVERSED:
+REVERSED: Family discord or disharmony, unfulfilled family expectations, strained relationships within the family.
 ---
 page-cups
 Page of Cups
@@ -199,19 +200,19 @@ knight-cups
 Knight of Cups
 ./images/knight-cups.webp
 Represents romantic pursuit, emotional exploration, and following the heart. This knight is often a dreamer and idealist.<br><br>
-REVERSED:
+REVERSED: Emotional immaturity, romantic illusions or deception, inability to express feelings authentically.
 ---
 queen-cups
 Queen of Cups
 ./images/queen-cups.webp
 Embodies intuition, compassion, and emotional depth. She is a caring and empathetic figure.<br><br>
-REVERSED:
+REVERSED: Overly emotional or moody behavior, suppressing emotions or intuition, lack of empathy or compassion.
 ---
 king-cups
 King of Cups
 ./images/king-cups.webp
 Symbolizes emotional balance, wisdom, and mastery of feelings. This king is compassionate, understanding, and calm.<br><br>
-REVERSED:
+REVERSED: Emotional instability, suppressed emotions leading to outbursts, manipulative use of emotions.
 ---
 ace-swords
 Ace of Swords
