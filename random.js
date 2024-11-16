@@ -15,7 +15,7 @@ function drawCards(numberOfCards) {
     // Clear the card container before drawing new cards
     cardContainer.innerHTML = '';
 
-    // Fetch the card data
+    // Fetch the card data from the updated path
     fetch('cards/cards.txt')
         .then(response => {
             if (!response.ok) {
@@ -24,11 +24,14 @@ function drawCards(numberOfCards) {
             return response.text();
         })
         .then(data => {
-            // Parse the card data
-            const cards = data.split('\n').map(card => card.trim()).filter(card => card.length > 0);
-            
+            // Parse the card data into an array of card objects
+            const cards = data.split('\n').map(card => {
+                const [title, image, description] = card.split('|').map(item => item.trim());
+                return { title, image, description };
+            }).filter(card => card.title && card.image && card.description);  // Filter out any incomplete cards
+
             if (cards.length === 0) {
-                console.error('No cards found in the cards.txt file!');
+                console.error('No valid cards found in cards.txt!');
                 return;
             }
 
@@ -42,7 +45,26 @@ function drawCards(numberOfCards) {
             selectedCards.forEach(card => {
                 const cardElement = document.createElement('div');
                 cardElement.classList.add('card');
-                cardElement.textContent = card;
+                
+                // Create a title element
+                const titleElement = document.createElement('h2');
+                titleElement.textContent = card.title;
+                
+                // Create an image element
+                const imageElement = document.createElement('img');
+                imageElement.src = card.image;
+                imageElement.alt = card.title;
+                
+                // Create a description element
+                const descriptionElement = document.createElement('p');
+                descriptionElement.textContent = card.description;
+
+                // Append the elements to the card container
+                cardElement.appendChild(titleElement);
+                cardElement.appendChild(imageElement);
+                cardElement.appendChild(descriptionElement);
+                
+                // Add the card to the container
                 cardContainer.appendChild(cardElement);
             });
             
