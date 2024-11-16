@@ -12,7 +12,15 @@ const cardTemplate = (card) => `
 document.addEventListener("DOMContentLoaded", function () {
   const cardData = [];
 
-  // Only hide cards on index.html
+  // Function to shuffle the cards array (Fisher-Yates algorithm)
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]]; // Swap elements
+    }
+  }
+
+  // Only hide cards unless button is clicked on index.html
   if (window.location.pathname === '/index.html') {
     function renderCardData() {
       const list = document.querySelector("#card-list");
@@ -46,25 +54,29 @@ document.addEventListener("DOMContentLoaded", function () {
       // Hide all cards initially
       allCards.forEach(card => card.style.display = 'none');
 
-      // Show the specified number of cards
+      // Shuffle the cards array
+      const shuffledCards = Array.from(allCards);
+      shuffleArray(shuffledCards);
+
+      // Show the specified number of random cards
       for (let i = 0; i < num; i++) {
-        if (allCards[i]) {
-          allCards[i].style.display = 'block';
+        if (shuffledCards[i]) {
+          shuffledCards[i].style.display = 'block';
         }
       }
     }
 
     // Button click event listeners
     document.getElementById("draw-cards-one").addEventListener("click", function () {
-      showCards(1); // Show 1 card
+      showCards(1); // Show 1 random card
     });
 
     document.getElementById("draw-cards-three").addEventListener("click", function () {
-      showCards(3); // Show 3 cards
+      showCards(3); // Show 3 random cards
     });
 
     document.getElementById("draw-cards-five").addEventListener("click", function () {
-      showCards(5); // Show 5 cards
+      showCards(5); // Show 5 random cards
     });
 
     renderCardData(); // Render cards initially
