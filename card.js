@@ -12,100 +12,58 @@ const cardTemplate = (card) => `
 document.addEventListener("DOMContentLoaded", function () {
   const cardData = [];
 
-  // Function to shuffle the cards array (Fisher-Yates algorithm)
-  function shuffleArray(array) {
-    for (let i = array.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [array[i], array[j]] = [array[j], array[i]]; // Swap elements
-    }
-  }
+  function renderCardData() {
+    const list = document.querySelector("#card-list");
 
-  // Only hide cards unless button is clicked on index.html
-  if (window.location.pathname === '/index.html') {
-    function renderCardData() {
-      const list = document.querySelector("#card-list");
+    fetch("cards/cards.txt")
+      .then((res) => res.text())
+      .then((text) => {
+        const cards = text.split("---").map((card) => card.trim());
+        cards.forEach((data) => {
+          const [id, title, img_url, ...description] = data.split("\n");
 
-      fetch("cards/cards.txt")
-        .then((res) => res.text())
-        .then((text) => {
-          const cards = text.split("---").map((card) => card.trim());
-          cards.forEach((data) => {
-            const [id, title, img_url, ...description] = data.split("\n");
+          const card = document.createElement("div");
+          card.classList.add("tarot-card");
+          card.id = id;
+          card.innerHTML = cardTemplate({
+            title,
+            img_url,
+            description: description.join("\n"),
+          });
 
-            const card = document.createElement("div");
-            card.classList.add("tarot-card");
-            card.id = id;
-            card.innerHTML = cardTemplate({
+          card.addEventListener("click", () => {
+            openModal({
               title,
               img_url,
               description: description.join("\n"),
             });
-
-            card.style.display = 'none'; // Hide all cards initially on index.html
-
-            list.appendChild(card);
           });
+
+          list.appendChild(card);
         });
-    }
-
-    function showCards(num) {
-      const allCards = document.querySelectorAll('.tarot-card');
-
-      // Hide all cards initially
-      allCards.forEach(card => card.style.display = 'none');
-
-      // Shuffle the cards array
-      const shuffledCards = Array.from(allCards);
-      shuffleArray(shuffledCards);
-
-      // Show the specified number of random cards
-      for (let i = 0; i < num; i++) {
-        if (shuffledCards[i]) {
-          shuffledCards[i].style.display = 'block';
-        }
-      }
-    }
-
-    // Button click event listeners
-    document.getElementById("draw-cards-one").addEventListener("click", function () {
-      showCards(1); // Show 1 random card
-    });
-
-    document.getElementById("draw-cards-three").addEventListener("click", function () {
-      showCards(3); // Show 3 random cards
-    });
-
-    document.getElementById("draw-cards-five").addEventListener("click", function () {
-      showCards(5); // Show 5 random cards
-    });
-
-    renderCardData(); // Render cards initially
-  } else {
-    // If not on index.html (i.e., on directory.html), render all cards by default
-    function renderCardData() {
-      const list = document.querySelector("#card-list");
-
-      fetch("cards/cards.txt")
-        .then((res) => res.text())
-        .then((text) => {
-          const cards = text.split("---").map((card) => card.trim());
-          cards.forEach((data) => {
-            const [id, title, img_url, ...description] = data.split("\n");
-
-            const card = document.createElement("div");
-            card.classList.add("tarot-card");
-            card.id = id;
-            card.innerHTML = cardTemplate({
-              title,
-              img_url,
-              description: description.join("\n"),
-            });
-
-            list.appendChild(card);
-          });
-        });
-    }
-
-    renderCardData(); // Render all cards on directory.html
+      });
   }
+
+  /* function openModal({ title, img_url, description }) {
+    const modalOverlay = document.createElement("div");
+    modalOverlay.classList.add("modal-overlay");
+
+    modalOverlay.innerHTML = `
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2>${title}</h2>
+        <img src="${img_url}" alt="${title}" height="500px" width="275px" loading="lazy">
+        <p>${description}</p>
+      </div>
+    `;
+
+    document.body.appendChild(modalOverlay);
+  }
+
+  window.closeModal = function () {
+    const modalOverlay = document.querySelector(".modal-overlay");
+    modalOverlay.remove();
+  };
+*/
+  renderCardData();
 });
