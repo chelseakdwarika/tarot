@@ -72,9 +72,9 @@ function drawCards(numberOfCards) {
                 descriptionElement.innerHTML = card.description;  // Allow HTML in description (e.g., <br> tags)
 
                 // Append the elements to the card container
-                cardElement.appendChild(titleElement);
+                //cardElement.appendChild(titleElement);
                 cardElement.appendChild(imageElement);
-                cardElement.appendChild(descriptionElement);
+                //cardElement.appendChild(descriptionElement);
                 
                 // Add the card to the container
                 cardContainer.appendChild(cardElement);
