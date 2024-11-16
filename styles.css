@@ -129,23 +129,23 @@ video {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow effect on hover */
 }
 
-/* Card container centering on homepage */
+/* Card container for horizontal scrolling */
 .card-container {
   display: flex;
-  justify-content: center; /* Centers cards horizontally */
-  gap: 20px; /* Adds space between cards */
-  flex-wrap: wrap; /* Ensures cards can wrap if there's not enough space */
-  width: 80%; /* Controls the width of the card container */
-  margin-top: 30px; /* Adds space above the card container */
-  max-width: 800px; /* Optional: limits the width of the card container */
+  justify-content: flex-start; /* Align cards to the left */
+  gap: 20px; /* Space between cards */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  padding-bottom: 20px; /* Optional: space below the cards */
+  width: 100%; /* Full width of the container */
+  max-width: 100%; /* Ensure the cards container doesn't exceed the viewport */
 }
 
 .custom-card {
-  background: #f1e2f3; /* Custom background color for cards */
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); /* Custom background color for cards */
   border: 2px solid #e0b0d7; /* Custom border */
   border-radius: 15px; /* Rounded corners */
   padding: 10px; /* Reduced padding for a smaller card */
-  margin: 5px; /* Reduced margin between cards */
+  margin: 10px; /* Reduced margin between cards */
   width: 200px; /* Reduced width for smaller cards */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
@@ -154,16 +154,15 @@ video {
   max-width: 100%; /* Ensures image scales to fit the card width */
   height: auto; /* Maintain aspect ratio */
   border-radius: 10px;
-  max-height: 150px; /* Limit image height */
 }
 
 .custom-card h2 {
-  font-size: 1rem; /* Smaller font size for titles */
+  font-size: 1.2rem; /* Smaller font size for titles */
   margin-bottom: 10px;
 }
 
 .custom-card p {
-  font-size: 0.875rem; /* Smaller font size for description */
+  font-size: 0.9rem; /* Smaller font size for description */
   color: #555;
 }
 .tarot-card {
