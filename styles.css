@@ -129,7 +129,7 @@ video {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow effect on hover */
 }
 
-/* Card container centering */
+/* Card container centering on homepage */
 .card-container {
   display: flex;
   justify-content: center; /* Centers cards horizontally */
@@ -138,6 +138,32 @@ video {
   width: 80%; /* Controls the width of the card container */
   margin-top: 30px; /* Adds space above the card container */
   max-width: 800px; /* Optional: limits the width of the card container */
+}
+
+.custom-card {
+  background: #f1e2f3; /* Custom background color for cards */
+  border: 2px solid #e0b0d7; /* Custom border */
+  border-radius: 15px; /* Rounded corners */
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.custom-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.custom-card h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.custom-card p {
+  font-size: 1rem;
+  color: #555;
 }
 
 .tarot-card {

@@ -56,7 +56,7 @@ function drawCards(numberOfCards) {
             // Display the selected cards
             selectedCards.forEach(card => {
                 const cardElement = document.createElement('div');
-                cardElement.classList.add('card');
+                cardElement.classList.add('custom-card');  // Add your custom class here
                 
                 // Create a title element
                 const titleElement = document.createElement('h2');
