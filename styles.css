@@ -120,13 +120,12 @@ video {
   background: #d9a7c7;
   color: #000;
   padding: 12px 30px;
-  border: none;
-  border-radius: 10px;
-  font-family: 'Great Vibes', cursive;
+  border: 2px pink;
 }
 
 .btn:hover {
   background-color: #2980b9;
+  color: #fff;
   transform: scale(1.1); /* Slight zoom effect on hover */
 }
 
