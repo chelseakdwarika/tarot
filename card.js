@@ -65,10 +65,10 @@ document.addEventListener("DOMContentLoaded", function () {
     return selectedCards;
   }
 
-  // Function to render the selected random cards
+  // Function to render the selected random cards in the container
   function renderSelectedCards(cards) {
     const selectedCardsContainer = document.querySelector("#selected-cards");
-    selectedCardsContainer.innerHTML = ""; // Clear any previous cards
+    selectedCardsContainer.innerHTML = ""; // Clear any previously selected cards
 
     cards.forEach((card) => {
       const selectedCardClone = card.cloneNode(true); // Clone the selected card element
@@ -91,26 +91,5 @@ document.addEventListener("DOMContentLoaded", function () {
     const randomCards = getRandomCards(5);
     renderSelectedCards(randomCards);
   });
-  
-  // Function to open a modal (optional feature)
-  /* function openModal({ title, img_url, description }) {
-    const modalOverlay = document.createElement("div");
-    modalOverlay.classList.add("modal-overlay");
 
-    modalOverlay.innerHTML = `
-      <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
-        <h2>${title}</h2>
-        <img src="${img_url}" alt="${title}" height="500px" width="275px" loading="lazy">
-        <p>${description}</p>
-      </div>
-    `;
-
-    document.body.appendChild(modalOverlay);
-  }
-
-  window.closeModal = function () {
-    const modalOverlay = document.querySelector(".modal-overlay");
-    modalOverlay.remove();
-  }; */
 });
