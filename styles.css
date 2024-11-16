@@ -114,19 +114,24 @@ video {
   display: flex;
   gap: 30px; /* Adds space between the buttons */
   margin-bottom: 20px; /* Adds space below the buttons */
+  margin-top: 10px; /* Moves the container closer to the top */
 }
 
+/* Button styles */
 .btn {
   background: #d9a7c7;
   color: #000;
   padding: 12px 30px;
-  border: 2px pink;
+  border: 2px solid pink; /* Added solid border */
+  border-radius: 5px; /* Optional: for rounded corners */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
 }
 
 .btn:hover {
   background-color: #2980b9;
   color: #fff;
   transform: scale(1.1); /* Slight zoom effect on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow effect on hover */
 }
 
 
