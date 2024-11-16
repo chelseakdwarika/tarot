@@ -16,7 +16,7 @@ function drawCards(numberOfCards) {
     cardContainer.innerHTML = '';
   
     // Fetch the card data
-    fetch('cards.txt')
+    fetch('cards/cards.txt')
         .then(response => response.text())
         .then(data => {
             // Parse the card data
