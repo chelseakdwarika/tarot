@@ -144,9 +144,9 @@ video {
   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); /* Custom background color for cards */
   border: 2px solid #e0b0d7; /* Custom border */
   border-radius: 15px; /* Rounded corners */
-  padding: 10px; /* Reduced padding for a smaller card */
-  margin: 10px; /* Reduced margin between cards */
-  width: 200px; /* Reduced width for smaller cards */
+  padding: 15px; /* Reduced padding for a smaller card */
+  margin: 15px; /* Reduced margin between cards */
+  width: 500px; /* Reduced width for smaller cards */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
