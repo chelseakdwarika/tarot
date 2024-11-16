@@ -4,7 +4,8 @@
   "description": "Tarot Card Generator",
   "main": "card.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js -e ejs,js,css,html,jpg,png,scss"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chelseakdwarika/tarot/issues"
   },
-  "homepage": "https://github.com/chelseakdwarika/tarot#readme"
+  "homepage": "https://github.com/chelseakdwarika/tarot#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
