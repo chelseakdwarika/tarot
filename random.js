@@ -6,22 +6,32 @@ const clearButton = document.getElementById('clear-button');
 clearButton.style.display = 'none';
 
 // Event listeners for the "Draw Cards" buttons
+document.getElementById('draw-1-card').addEventListener('click', () => drawCards(1));
 document.getElementById('draw-3-cards').addEventListener('click', () => drawCards(3));
 document.getElementById('draw-5-cards').addEventListener('click', () => drawCards(5));
-document.getElementById('draw-10-cards').addEventListener('click', () => drawCards(10));
 
 // Function to draw cards based on the number of cards specified
 function drawCards(numberOfCards) {
     // Clear the card container before drawing new cards
     cardContainer.innerHTML = '';
-  
+
     // Fetch the card data
     fetch('cards/cards.txt')
-        .then(response => response.text())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to load cards.txt');
+            }
+            return response.text();
+        })
         .then(data => {
             // Parse the card data
             const cards = data.split('\n').map(card => card.trim()).filter(card => card.length > 0);
             
+            if (cards.length === 0) {
+                console.error('No cards found in the cards.txt file!');
+                return;
+            }
+
             // Shuffle the cards array
             const shuffledCards = shuffle(cards);
             
@@ -38,6 +48,9 @@ function drawCards(numberOfCards) {
             
             // Show the clear button after cards are drawn
             clearButton.style.display = 'inline-block';
+        })
+        .catch(error => {
+            console.error('Error fetching the cards:', error);
         });
 }
 

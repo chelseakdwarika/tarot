@@ -103,7 +103,7 @@ video {
 }
 
 /* Button container centering */
-.buttons-container {
+.button-container {
   display: flex;
   justify-content: center; /* Centers buttons horizontally */
   gap: 30px; /* Adds space between buttons */
@@ -130,7 +130,7 @@ video {
 }
 
 /* Card container centering */
-.cards-container {
+.card-container {
   display: flex;
   justify-content: center; /* Centers cards horizontally */
   gap: 20px; /* Adds space between cards */
