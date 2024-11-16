@@ -144,28 +144,28 @@ video {
   background: #f1e2f3; /* Custom background color for cards */
   border: 2px solid #e0b0d7; /* Custom border */
   border-radius: 15px; /* Rounded corners */
-  padding: 20px;
-  margin: 10px;
-  width: 300px;
+  padding: 10px; /* Reduced padding for a smaller card */
+  margin: 5px; /* Reduced margin between cards */
+  width: 200px; /* Reduced width for smaller cards */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .custom-card img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100%; /* Ensures image scales to fit the card width */
+  height: auto; /* Maintain aspect ratio */
   border-radius: 10px;
+  max-height: 150px; /* Limit image height */
 }
 
 .custom-card h2 {
-  font-size: 1.5rem;
+  font-size: 1rem; /* Smaller font size for titles */
   margin-bottom: 10px;
 }
 
 .custom-card p {
-  font-size: 1rem;
+  font-size: 0.875rem; /* Smaller font size for description */
   color: #555;
 }
-
 .tarot-card {
   background: #d9a7c7; /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #fffcdc, #d9a7c7); /* Chrome 10-25, Safari 5.1-6 */
