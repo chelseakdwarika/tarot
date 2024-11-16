@@ -24,11 +24,23 @@ function drawCards(numberOfCards) {
             return response.text();
         })
         .then(data => {
-            // Parse the card data into an array of card objects
-            const cards = data.split('\n').map(card => {
-                const [title, image, description] = card.split('|').map(item => item.trim());
+            console.log('Fetched card data:', data); // Debugging log
+
+            // Split the data into individual card blocks
+            const cardBlocks = data.split('---').map(block => block.trim()).filter(block => block);
+
+            // Parse each card block into an object
+            const cards = cardBlocks.map(block => {
+                const lines = block.split('\n').map(line => line.trim());
+                if (lines.length < 4) return null; // Ensure there's enough data
+
+                // Extract the parts of the card
+                const [keyword, title, image, description] = lines;
+                
                 return { title, image, description };
-            }).filter(card => card.title && card.image && card.description);  // Filter out any incomplete cards
+            }).filter(card => card);  // Filter out any invalid cards
+
+            console.log('Parsed cards:', cards); // Debugging log
 
             if (cards.length === 0) {
                 console.error('No valid cards found in cards.txt!');
@@ -37,10 +49,10 @@ function drawCards(numberOfCards) {
 
             // Shuffle the cards array
             const shuffledCards = shuffle(cards);
-            
+
             // Select the cards to display
             const selectedCards = shuffledCards.slice(0, numberOfCards);
-            
+
             // Display the selected cards
             selectedCards.forEach(card => {
                 const cardElement = document.createElement('div');
@@ -57,7 +69,7 @@ function drawCards(numberOfCards) {
                 
                 // Create a description element
                 const descriptionElement = document.createElement('p');
-                descriptionElement.textContent = card.description;
+                descriptionElement.innerHTML = card.description;  // Allow HTML in description (e.g., <br> tags)
 
                 // Append the elements to the card container
                 cardElement.appendChild(titleElement);
@@ -67,7 +79,7 @@ function drawCards(numberOfCards) {
                 // Add the card to the container
                 cardContainer.appendChild(cardElement);
             });
-            
+
             // Show the clear button after cards are drawn
             clearButton.style.display = 'inline-block';
         })
