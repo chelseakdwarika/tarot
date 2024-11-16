@@ -82,6 +82,11 @@ body {
   display: block;
 }
 
+.btn {
+  background: #d9a7c7;
+  color: #000;
+}
+
 /* homepage two-cards */
 .card-container {
   display: flex;
