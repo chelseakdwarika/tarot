@@ -109,12 +109,12 @@ video {
   object-fit: cover;
 }
 
-/* Button container */
+/* Button container centering */
 .buttons-container {
   display: flex;
-  gap: 30px; /* Adds space between the buttons */
-  margin-bottom: 30px; /* Adds space below the buttons */
-  margin-top: 10px; /* Moves the container closer to the top */
+  justify-content: center; /* Centers buttons horizontally */
+  gap: 30px; /* Adds space between buttons */
+  margin-bottom: 20px; /* Adds space below the buttons */
 }
 
 /* Button styles */
@@ -134,15 +134,14 @@ video {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a shadow effect on hover */
 }
 
-/* Center the cards container below the buttons */
+/* Card container centering */
 .cards-container {
   display: flex;
-  justify-content: center; /* Center cards horizontally */
-  gap: 20px; /* Space between cards */
-  margin-top: 30px; /* Add some space between buttons and cards */
-  width: 80%; /* Control the width of the card container */
-  max-width: 1200px; /* Optional: maximum width for better control */
-  flex-wrap: wrap; /* Allow cards to wrap in smaller viewports */
+  justify-content: center; /* Centers cards horizontally */
+  gap: 20px; /* Adds space between cards */
+  flex-wrap: wrap; /* Ensures cards can wrap if there's not enough space */
+  width: 80%; /* Controls the width of the card container */
+  margin-top: 30px; /* Adds space above the card container */
 }
 
 .tarot-card {
