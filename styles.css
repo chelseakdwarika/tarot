@@ -129,27 +129,6 @@ video {
   transform: scale(1.1); /* Slight zoom effect on hover */
 }
 
-/* homepage two-cards */
-.card-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 800px;
-  margin-left: 10px;
-  margin-top: 60px;
-  padding-bottom: 20px;
-}
-
-/* for horizontal scrolling set-up all cards */
-
-/* .card-container {
-  overflow: scroll; 
-  white-space: nowrap; 
-  width: 100%;
-  margin-left: 10px;
-  padding-bottom: 20px;
-} */
-
 .tarot-card {
   /* display: inline-block; */
   /* background-color: transparent; */
